@@ -1,0 +1,347 @@
+"Active Setup Control"" Vulnerability" | MS99-048 | None | 244540
+"CSRSS Worker Thread Exhaustion"" Vulnerability" | MS99-021 | None | 233323
+"Chunked Encoding Post"" Vulnerability" | MS00-018 | None | 252693
+"Clip Art Buffer Overrun"" Vulnerability" | MS00-015 | None | 256167
+"DHTML Edit"" Vulnerability" | MS99-011 | None | 226326
+"DOS Device in Path Name"" Vulnerability" | MS00-017 | None | 256015
+"Desktop Separation"" Vulnerability" | MS00-020 | None | 260197
+"Domain Resolution"" and ""FTP Download"" Vulnerabilities" | MS99-039 | None | 241805
+"Double Byte Code Page"" Vulnerability" | MS99-022 | None | 233335
+"Download Behavior"" Vulnerability" | MS99-040 | None | 242542
+"Encapsulated SMTP Address"" Vulnerability" | MS99-027 | None | 237927
+"Escape Character Parsing"" Vulnerability" | MS99-061 | None | 246401
+"Excel SYLK"" Vulnerability" | MS99-044 | None | 
+"File Access URL"" Vulnerability" | MS99-049 | None | 245729
+"Fix Available for Windows NT ""KnownDLLs List"" Vulnerability" | MS99-006 | None | 218473
+"For Long file name Security Issue affecting Microsoft? Outlook 98 and Microsoft Outlook Express 4.x | MS98-008 | None | 
+"Fragmented IGMP Packet"" Vulnerability" | MS99-034 | None | 238329
+"Frame Domain Verification"" | MS00-033 | None | 262509
+"HTML Mail Attachment"" Vulnerability" | MS99-060 | None | 
+"IE Task Scheduler"" Vulnerability" | MS99-051 | None | 246972
+"IFRAME ExecCommand"" Vulnerability" | MS99-042 | None | 243638
+"IIS ""Malformed FTP List Request"" Vulnerability" | MS99-003 | None | 188348
+"IP Fragment Reassembly"" Vulnerability" | MS00-029 | None | 259728
+"Image Source Redirect"" Vulnerability" | MS00-009 | None | 251109
+"ImportExportFavorites"" Vulnerability" | MS99-037 | None | 241361
+"Information on the ""Back Orifice"" Program" | MS98-010 | None | 
+"Javascript Redirect"" Vulnerability" | MS99-043 | None | 
+"Legacy Credential Caching"" Vulnerability" | MS99-052 | None | 168115
+"Malformed Bind Request"" Vulnerability" | MS99-009 | None | 221989
+"Malformed Conversion Data"" Vulnerability" | MS00-002 | None | 249881
+"Malformed Dialer Entry"" Vulnerability" | MS99-026 | None | 237185
+"Malformed Environment Variable"" Vulnerability" | MS00-027 | None | 259622
+"Malformed Extension Data in URL"" Vulnerability" | MS00-030 | None | 260205
+"Malformed Favorites Icon"" Vulnerability" | MS99-018 | None | 
+"Malformed HTR Request"" Vulnerability" | MS99-019 | None | 234905
+"Malformed HTTP Request Header"" Vulnerability" | MS99-029 | None | 238349
+"Malformed Help File"" Vulnerability" | MS99-015 | None | 231605
+"Malformed Hit-Highlighting Argument"" Vulnerability" | MS00-006 | None | 251170
+"Malformed IMAP Request"" Vulnerability" | MS00-001 | None | 246731
+"Malformed Image Header"" Vulnerability" | MS99-023 | None | 234557
+"Malformed LSA Request"" Vulnerability" | MS99-020 | None | 231457
+"Malformed Media License Request"" Vulnerability" | MS00-016 | None | 257200
+"Malformed Phonebook Entry"" Vulnerability" | MS99-016 | None | 230677
+"Malformed RTF Control Word"" Vulnerability" | MS00-005 | None | 249973
+"Malformed Resource Enumeration Argument"" Vulnerability" | MS99-055 | None | 246045
+"Malformed Security Identifier Request"" Vulnerability" | MS99-057 | None | 
+"Malformed Spooler Request"" Vulnerability" | MS99-047 | None | 243649
+"Malformed TCP/IP Print Request"" Vulnerability" | MS00-021 | None | 257870
+"Malformed TDS Packet Header"" Vulnerability" | MS99-059 | None | 248749
+"Malformed Telnet Argument"" Vulnerability" | MS99-033 | None | 240163
+"Misordered Windows Media Services Handshake"" Vulnerability" | MS00-013 | None | 253943
+"Mixed Object Access"" Vulnerability" | MS00-026 | None | 259401
+"Myriad Escaped Characters"" Vulnerability" | MS00-023 | None | 254142
+"Office 2000 UA Control"" Vulnerability" | MS00-034 | None | 262767
+"Outlook | MS01-012 | Critical | 283908
+"Patch and Tool Available for ""Protected Store Key Length"" Vulnerability" | MS00-032 | None | 260219
+"Procedure Available to Eliminate ""Link View Server-Side Component"" Vulnerability" | MS00-025 | None | 259799
+"Procedure Available to Eliminate ""Server-Side Image Map Components"" Vulnerability" | MS00-028 | None | 260267
+"RAS and RRAS Password"" Vulnerability" | MS99-017 | None | 
+"Recycle Bin Creation"" Vulnerability" | MS00-007 | None | 248399
+"Registry Permissions"" Vulnerability" | MS00-008 | None | 259496
+"Remote Agent Permissions"" Vulnerability" | MS00-012 | None | 
+"Server-side Page Reference Redirect"" Vulnerability" | MS99-050 | None | 246094
+"Set Cookie Header Caching"" Vulnerability" | MS99-035 | None | 238647
+"Site Wizard Input Validation"" Vulnerability" | MS00-010 | None | 252614
+"Spoofed Route Pointer"" Vulnerability" | MS99-038 | None | 238453
+"Syskey Keystream Reuse"" Vulnerability" | MS99-056 | None | 
+"System administrators offering newsgroup services via Microsoft? Windows NT? 4.0 | MS01-043 | Moderate | 303984
+"Terminal Server Connection Request Flooding"" Vulnerability" | MS99-028 | None | 238600
+"The Error Message Vulnerability"" Against Secured Internet Servers" | MS98-002 | None | 148427
+"Tool Available for ""OffloadModExpo Registry Permissions"" Vulnerability" | MS00-024 | None | 259496
+"Tool Available for ""RASMAN Security Descriptor"" Vulnerability" | MS99-041 | None | 242294
+"Undelimited .HTR Request"" and ""File Fragment Reading via .HTR"" Vulnerabilities" | MS00-031 | None | 
+"Unprotected IOCTLs"" Vulnerability" | MS99-024 | None | 236359
+"Untrusted Scripted Paste"" Issue in Microsoft Internet Explorer 4.01" | MS98-015 | None | 169245
+"Updated Office ""ODBC Vulnerabilities""" | MS99-030 | None | 239114
+"VM File Reading"" Vulnerability" | MS00-011 | None | 253562
+"Virtual Directory Naming"" Vulnerability" | MS99-058 | None | 
+"Virtual Machine Sandbox"" Vulnerability" | MS99-031 | None | 240346
+"Virtual Machine Verifier"" Vulnerability" | MS99-045 | None | 244283
+"Virtualized UNC Share"" Vulnerability" | MS00-019 | None | 249599
+"WPAD Spoofing"" Vulnerability" | MS99-054 | None | 247333
+"Window.External"" JScript Vulnerability in Microsoft Internet Explorer 4.0" | MS98-011 | None | 191200
+"Windows Multithreaded SSL ISAPI Filter"" Vulnerability" | MS99-053 | None | 
+"Windows NT ""Screen Saver"" Vulnerability" | MS99-008 | None | 221991
+"Word 97 Template"" Vulnerability" | MS99-002 | None | 214652
+"XLM Text Macro"" Vulnerability" | MS00-022 | None | 
+"scriptlet.typelib/Eyedog"" Vulnerability" | MS99-032 | None | 240308
+"to Improve TCP Initial Sequence Number Randomness | MS99-046 | None | 243835
+'Absent Directory Browser Argument' Vulnerability | MS00-044 | None | 
+'Active Setup Download' Vulnerability | MS00-042 | None | 265258
+'ActiveX Parameter Validation' Vulnerability | MS00-085 | None | 278511
+'Browser Print Template' and 'File Upload via Form' Vulnerabilities | MS00-093 | None | 
+'Cache Bypass' Vulnerability | MS00-046 | None | 247638
+'Cached Web Credentials' Vulnerability | MS00-076 | None | 273868
+'DTS Password' Vulnerability | MS00-041 | None | 264880
+'Domain Account Lockout' Vulnerability | MS00-089 | None | 274372
+'Dotless IP Address' Issue in Microsoft Internet Explorer 4 | MS98-016 | None | 168617
+'Excel REGISTER.ID Function' Vulnerability | MS00-051 | None | 
+'Exchange User Account' Vulnerability | MS00-088 | None | 278523
+'Extended Stored Procedure Parameter Parsing' Vulnerability | MS00-092 | None | 280380
+'File Permission Canonicalization' Vulnerability | MS00-057 | None | 269862
+'Frame Spoof' Vulnerability | MS98-020 | None | 167614
+'HTML Help File Code Execution' Vulnerability | MS00-037 | None | 259166
+'HyperTerminal Buffer Overflow' Vulnerability | MS00-079 | None | 274548
+'IIS Cross-Site Scripting' Vulnerabilities | MS00-060 | None | 
+'Incomplete TCP/IP Packet' Vulnerability | MS00-091 | None | 275567
+'Indexing Service File Enumeration' Vulnerability | MS00-098 | None | 280838
+'Indexing Services Cross Site Scripting' Vulnerability | MS00-084 | None | 278499
+'Invalid URL' Vulnerability | MS00-063 | None | 271652
+'Java VM Applet' Vulnerability | MS00-059 | None | 
+'Local Security Policy Corruption' Vulnerability | MS00-062 | None | 269609
+'Malformed E-mail Header' Vulnerability | MS00-043 | None | 
+'Malformed IPX NMPI Packet' Vulnerability | MS00-073 | None | 273727
+'Malformed IPX Ping Packet' Vulnerability | MS00-054 | None | 265334
+'Malformed MIME Header' Vulnerability | MS00-082 | None | 
+'Malformed RPC Packet' Vulnerability | MS00-066 | None | 272303
+'Malformed Windows Media Encoder Request' Vulnerability | MS00-038 | None | 264133
+'Microsoft Office HTML Object Tag' Vulnerability | MS00-056 | None | 269880
+'Microsoft VM ActiveX Component' Vulnerability | MS00-075 | None | 
+'Money Password' Vulnerability | MS00-061 | None | 272232
+'Named Pipes Over RPC' Issue | MS98-017 | None | 195733
+'NetBIOS Name Server Protocol Spoofing' Vulnerability | MS00-047 | None | 269239
+'NetMeeting Desktop Sharing' Vulnerability | MS00-077 | None | 
+'Netmon Protocol Parsing' Vulnerability | MS00-083 | None | 274835
+'Persistent Mail-Browser Link' Vulnerability | MS00-045 | None | 
+'Phone Book Service Buffer Overflow' Vulnerability | MS00-094 | None | 276575
+'RDISK Registry Enumeration File' Vulnerability | MS00-004 | None | 249108
+'RDISK Registry Enumeration File' Vulnerability | MS00-090 | None | 280419
+'Relative Shell Path' Vulnerability | MS00-052 | None | 269049
+'Remote Registry Access Authentication' Vulnerability | MS00-040 | None | 264684
+'ResetBrowser Frame' and 'HostAnnouncement Frame' Vulnerabilities | MS00-036 | None | 262694
+'SQL Query Abuse' Vulnerability | MS00-014 | None | 256052
+'SQL Server 7.0 Service Pack Password' Vulnerability | MS00-035 | None | 
+'SSL Certificate Validation' Vulnerabilities | MS00-039 | None | 
+'Scriptlet Rendering' Vulnerability | MS00-055 | None | 
+'Service Control Manager Named Pipe Impersonation' Vulnerability | MS00-053 | None | 269523
+'Session ID Cookie Marking' Vulnerability | MS00-080 | None | 274149
+'Severed Windows Media Server Connection' Vulnerability | MS00-097 | None | 281256
+'Share Level Password' Vulnerability | MS00-072 | None | 273991
+'Simplified Chinese IME State Recognition' Vulnerability | MS00-069 | None | 270676
+'Specialized Header' Vulnerability | MS00-058 | None | 256888
+'Spoofed LPC Port Request' Vulnerability | MS00-003 | None | 247869
+'Still Image Service Privilege Escalation' Vulnerability | MS00-065 | None | 272736
+'Stored Procedure Permissions' Vulnerability | MS00-048 | None | 266766
+'Telnet Server Flooding' Vulnerability | MS00-050 | None | 267843
+'Terminal Server Login Buffer Overflow' Vulnerability | MS00-087 | None | 277910
+'Unicast Service Race Condition' Vulnerability | MS00-064 | None | 273014
+'Web Server File Request Parsing' Vulnerability | MS00-086 | None | 277873
+'Web Server Folder Traversal' Vulnerability | MS00-078 | None | 276489
+'WebTV for Windows Denial of Service' Vulnerability | MS00-074 | None | 274113
+'Windows 2000 Telnet Client NTLM Authentication' Vulnerability | MS00-067 | None | 272743
+'Word Mail Merge' Vulnerability | MS00-071 | None | 
+04 March 2002 Cumulative VM Update | MS02-013 | Critical | 300845
+11 February 2002 Cumulative Patch for Internet Explorer | MS02-005 | Critical | 
+13 December 2001 Cumulative Patch for IE | MS01-058 | Critical | 313675
+13 November 2001 Cumulative Patch for IE | MS01-055 | Critical | 312461
+14 May 2001 Cumulative Patch for IIS | MS01-026 | Critical | 
+15 August 2001 Cumulative Patch for IIS | MS01-044 | Important | 285985
+15 May 2002 Cumulative Patch for Internet Explorer | MS02-023 | Critical | 321232
+26 June 2002 Cumulative Patch for Windows Media Player | MS02-032 | Critical | 320920
+28 March 2002 Cumulative Patch for Internet Explorer | MS02-015 | Critical | 319182
+Access Violation in Windows 2000 IrDA Driver Can Cause System to Restart | MS01-046 | Moderate | 252795
+Affected Product | Bulletin KB | Impact | Severity
+Authentication Error in SMTP Service Could Allow Mail Relaying | MS01-037 | Important | 302755
+Authentication Flaw Could Allow Unauthorized Users To Authenticate To SMTP Service | MS02-011 | Low | 289258
+Authentication Flaw in Microsoft Metadirectory Services Could Allow Privilege Elevation | MS02-036 | Moderate | 317138
+Authentication Flaw in Windows Debugger can Lead to Elevated Privileges | MS02-024 | Critical | 320206
+Authentication Processing Error in Windows NT 4.0 Service Pack 4 | MS99-004 | None | 214840
+BackOffice Server 4.0 Does Not Delete Installation Setup File | MS99-005 | None | 217004
+Buffer Overrun In HTML Converter Could Allow Code Execution | MS03-023 | Critical | 823559
+Buffer Overrun In RPC Interface Could Allow Code Execution | MS03-026 | Critical | 823980
+Buffer Overrun in Microsoft Data Access Components Could Lead to Code Execution | MS02-065 | Critical | 329414
+Buffer Overrun in SmartHTML Interpreter Could Allow Code Execution | MS02-053 | Critical | 324096
+Buffer Overrun in TSAC ActiveX Control Could Allow Code Execution | MS02-046 | Moderate | 327521
+Buffer Overrun in Windows Could Lead to Data Corruption | MS03-024 | Important | 817606
+Buffer Overrun in Windows Kernel Message Handling could Lead to Elevated Privileges | MS03-013 | Important | 811493
+Buffer Overruns in SQL Server 2000 Resolution Service Could Enable Code Execution | MS02-039 | Critical | 323875
+Certificate Validation Flaw Could Enable Identity Spoofing | MS02-050 | Important | 329115
+Cryptographic Flaw in RDP Protocol can Lead to Information Disclosure | MS02-051 | Moderate | 324380
+Cumulative Patch for BizTalk Server | MS03-016 | Important | 815206
+Cumulative Patch for Internet Explorer | MS02-047 | Critical | 323759
+Cumulative Patch for Internet Explorer | MS02-066 | Critical | 328970
+Cumulative Patch for Internet Explorer | MS02-068 | Critical | 324929
+Cumulative Patch for Internet Explorer | MS03-004 | Critical | 810847
+Cumulative Patch for Internet Explorer | MS03-015 | Critical | 813489
+Cumulative Patch for Internet Explorer | MS03-020 | Critical | 818529
+Cumulative Patch for Internet Explorer | MS03-032 | Critical | 822925
+Cumulative Patch for Internet Information Service | MS02-062 | Moderate | 327696
+Cumulative Patch for Internet Information Service | MS03-018 | Important | 811114
+Cumulative Patch for Internet Information Services | MS02-018 | Critical | 319733
+Cumulative Patch for Microsoft Content Management Server | MS03-002 | Important | 810487
+Cumulative Patch for Microsoft SQL Server | MS03-031 | Important | 815495
+Cumulative Patch for Outlook Express | MS03-014 | Critical | 330994
+Cumulative Patch for SQL Server | MS02-034 | Moderate | 316333
+Cumulative Patch for SQL Server | MS02-043 | Moderate | 316333
+Cumulative Patch for SQL Server | MS02-056 | Critical | 316333
+Cumulative Patches for Excel and Word for Windows | MS02-031 | Moderate | 324458
+Deeply-nested OWA Request Can Consume Server CPU Availability | MS01-049 | Moderate | 303451
+Disabling Creation of Local Groups on a Domain by Non-Administrative Users | MS98-001 | None | 169556
+Downloaded Applications Can Execute on Mac IE 5.1 for OS X | MS01-053 | Moderate | 311052
+E-mail Editor Flaw Could Lead to Script Execution on Reply or Forward | MS02-021 | Moderate | 321804
+E-mail Header Processing Flaw Could Cause Outlook 2002 to Fail | MS02-067 | Moderate | 331866
+Elevation of Privilege in SQL Server Web Tasks | MS02-061 | Critical | 316333
+Erroneous VeriSign-Issued Digital Certificates Pose Spoofing Hazard | MS01-017 | None | 293818
+Excel 'CALL Vulnerability' | MS98-018 | None | 196791
+Excel 97 Virus Warning Vulnerabilities | MS99-014 | None | 231304
+Exchange 2000 System Attendant Incorrectly Sets Remote Registry Permissions | MS02-003 | Low | 316056
+File Access Issue with Windows NT Internet Information Server (IIS) | MS98-003 | None | 188806
+File Access Vulnerability in Personal Web Server | MS99-010 | None | 217763
+Flaw Could Enable Web Page to Launch Visual FoxPro 6.0 Application Without Warning | MS02-049 | Moderate | 326568
+Flaw In ISA Server DNS Intrusion Detection Filter Can Cause Denial Of Service | MS03-009 | Moderate | 331065
+Flaw In Windows Media Player May Allow Media Library Access | MS03-021 | Moderate | 819639
+Flaw In Winsock Proxy Service And ISA Firewall Service Can Cause Denial Of Service | MS03-012 | Important | 331066
+Flaw in Certificate Enrollment Control Could Allow Deletion of Digital Certificates | MS02-048 | Critical | 323172
+Flaw in ISA Server Error Pages Could Allow Cross-Site Scripting Attack | MS03-028 | Important | 816456
+Flaw in ISAPI Extension for Windows Media Services Could Cause Code Execution | MS03-019 | Important | 817772
+Flaw in Microsoft VM Could Enable System Compromise | MS02-069 | Critical | 810030
+Flaw in Microsoft VM Could Enable System Compromise | MS03-011 | Critical | 816093
+Flaw in Microsoft VM JDBC Classes Could Allow Code Execution | MS02-052 | Critical | 329077
+Flaw in Microsoft Word Could Enable Macros to Run Automatically | MS03-035 | Important | 827653
+Flaw in NetBIOS Could Lead to Information Disclosure | MS03-034 | Low | 824105
+Flaw in Network Connection Manager Could Enable Privilege Elevation | MS02-042 | Critical | 326886
+Flaw in RPC Endpoint Mapper Could Allow Denial of Service Attacks | MS03-010 | Important | 331953
+Flaw in SMB Signing Could Enable Group Policy to be Modified | MS02-070 | Moderate | 329170
+Flaw in Services for Unix 3.0 Interix SDK Could Allow Code Execution | MS02-057 | Moderate | 329209
+Flaw in Windows Function Could Allow Denial of Service | MS03-029 | Moderate | 823803
+Flaw in Windows Me Help and Support Center Could Enable Code Execution | MS03-006 | Critical | 812709
+Flaw in Windows Media Player Skins Downloading could allow Code Execution | MS03-017 | Critical | 817787
+Flaw in Windows Message Handling through Utility Manager Could Enable Privilege Elevation | MS03-025 | Important | 822679
+Flaw in Windows Script Engine Could Allow Code Execution | MS03-008 | Critical | 814078
+Flaw in Windows WM_TIMER Message Handling Could Enable Privilege Elevation | MS02-071 | Important | 328310
+Flaw in Word Fields and Excel External Updates Could Lead to Information Disclosure | MS02-059 | Moderate | 330008
+Flaw in how Outlook 2002 handles V1 Exchange Server Security Certificates could lead to Information Disclosure | MS03-003 | Moderate | 812262
+Flaws in Web Server Certificate Validation Could Enable Spoofing | MS01-027 | None | 
+FrontPage Server Extension Sub-Component Contains Unchecked Buffer | MS01-035 | Critical | 300477
+Function Exposed via LDAP over SSL Could Enable Passwords to be Changed | MS01-036 | Important | 299687
+Heap Overrun in HTR Chunked Encoding Could Enable Web Server Compromise | MS02-028 | Critical | 321599
+IE can Divulge Location of Cached Content | MS01-015 | Critical | 279328
+IIS 'GET' Vulnerability | MS98-019 | None | 192296
+ISA Server H.323 Gatekeeper Service Contains Memory Leak | MS01-045 | Moderate | 289503
+Incorrect Attachment Handling in Exchange OWA Can Execute Script | MS01-030 | Critical | 30136
+Incorrect MIME Header Can Cause IE to Execute E-mail Attachment | MS01-020 | Critical | 290108
+Incorrect VBScript Handling in IE can Allow Web Pages to Read Local Files | MS02-009 | Critical | 318089
+Index Server Search Function Contains Unchecked Buffer | MS01-025 | Critical | 296185
+Internet Explorer Cross Frame Navigate Vulnerability | MS98-013 | None | 168485
+Invalid RDP Data Can Cause Memory Leak in Terminal Services | MS01-040 | Moderate | 292435
+Invalid RDP Data can Cause Terminal Service Failure | MS01-052 | Moderate | 307454
+Invalid RDP Data can cause Terminal Server Failure | MS01-006 | Moderate | 286132
+Invalid Universal Plug and Play Request can Disrupt System Operation | MS01-054 | Low | 
+MSHTML Internet Explorer | MS99-012 | None | 226325
+Malformed .HTR Request Allows Reading of File Fragments | MS01-004 | Low | 285985
+Malformed Data Transfer Request can Cause Windows SMTP Service to Fail | MS02-012 | Low | 313450
+Malformed Dotless IP Address Can Cause Web Page to be Handled in Intranet Zone | MS01-051 | None | 306121
+Malformed Excel or PowerPoint Document Can Bypass Macro Security | MS01-050 | Critical | 
+Malformed Mail Attribute can Cause Exchange 2000 to Exhaust CPU Resources | MS02-025 | Critical | 320436
+Malformed NTLMSSP Request Can Enable Code to Run with System Privileges | MS01-008 | Important | 280119
+Malformed Network Request can cause Office v. X for Mac to Fail | MS02-002 | Low | 317879
+Malformed PPTP Packet Stream can Cause Kernel Exhaustion | MS01-009 | Moderate | 283001
+Malformed RPC Request Can Cause Service Failure | MS01-041 | Moderate | 298012
+Malformed Request to Domain Controller can Cause CPU Exhaustion | MS01-011 | Moderate | 287397
+Malformed Request to Domain Controller can Cause Memory Exhaustion | MS01-024 | Critical | 294391
+Malformed Request to RPC Endpoint Mapper can Cause RPC Service to Fail | MS01-048 | Moderate | 305399
+Malformed URL can Cause Service Failure in IIS 5.0 and Exchange 2000 | MS01-014 | Moderate | 286818
+Malformed WebDAV Request Can Cause IIS to Exhaust CPU Resources | MS01-016 | Moderate | 291845
+Malformed Word Document Could Enable Macro to Run Automatically | MS01-034 | Critical | 
+Microsoft has released a patch that eliminates a security vulnerability affecting Microsoft Windows 2000 domain controllers. The vulnerability could allow a malicious user with physical access to a domain controller to install malicious software on it. | MS00-099 | None | 271641
+Multiple LPC and LPC Ports Vulnerabilities | MS00-070 | None | 266433
+Network DDE Agent Requests Can Enable Code to Run in System Context | MS01-007 | Important | 285851
+New Variant of 'VM File Reading' Vulnerability | MS00-081 | None | 
+OCX Attachment Vulnerability | MS00-068 | None | 274303
+OWA Function Allows Unauthenticated User to Enumerate Global Address List | MS01-047 | Low | 307195
+Opening Group Policy Files for Exclusive Read Blocks Policy Application | MS02-016 | Moderate | 318593
+Outlook View Control Exposes Unsafe Functionality | MS01-038 | Critical | 303825
+Packaging Anomaly Could Cause Hotfixes to be Removed | MS01-005 | Important | 285083
+Passwords for Compressed Folders are Recoverable | MS01-019 | Low | 252694
+Patches Available for 'Office HTML Script' and 'IE Script' Vulnerabilities | MS00-049 | None | 266766
+Patches Available for File Viewers Vulnerability | MS99-013 | None | 231368
+Potential Denial-of-Service in IIS FTP Server due to Passive Connections | MS98-006 | None | 189262
+Potential SMTP and NNTP Denial-of-Service Vulnerabilities in Microsoft Exchange Server | MS98-007 | None | 188341
+PowerPoint File Parser Contains Unchecked Buffer | MS01-002 | Critical | 285978
+Predictable Name Pipes Could Enable Privilege Elevation via Telnet | MS01-031 | Important | 299553
+RPC Spoofing Denial of Service on Windows NT | MS98-014 | None | 193233
+RTF document linked to template can run macros without warning | MS01-028 | Critical | 288266
+Re-Release: Unauthorized Access to IIS Servers through ODBC Data Access with RDS | MS99-025 | None | 184375
+SQL Extended Procedure Functions Contain Unchecked Buffers | MS02-020 | Moderate | 319507
+SQL Query Method Enables Cached Administrator Connection to be Reused | MS01-032 | Important | 299717
+SQL Server Installation Process May Leave Passwords on System | MS02-035 | Moderate | 263968
+SQL Server Remote Data Source Function Contain Unchecked Buffers | MS02-007 | Moderate | 317979
+SQL Server Text Formatting Functions Contain Unchecked Buffers | MS01-060 | Moderate | 
+Security Vulnerabilities in Microsoft PPTP | MS98-012 | None | 
+Server Response To SMTP Client EHLO Command Results In Buffer Overrun | MS02-037 | Moderate | 326322
+Services for Unix 2.0 Telnet and NFS Services Contain Memory Leaks | MS01-039 | Moderate | 
+Specially Formed Script in HTML Mail can Execute in Exchange 5.5 OWA | MS01-057 | Moderate | 313576
+Taskpads Scripting Vulnerability | MS99-007 | None | 218619
+Tool Available for 'Registry Permissions' Vulnerability | MS00-095 | None | 
+Tool Available for 'SNMP Parameters' Vulnerability | MS00-096 | None | 266794
+Trusting Domains Do Not Verify Domain Membership of SIDs in Authorization Data | MS02-001 | None | 289243
+Unauthorized ODBC Data Access with RDS and IIS | MS98-004 | None | 184375
+Unchecked Buffer In Windows Component Could Cause Server Compromise | MS03-007 | Critical | 815021
+Unchecked Buffer in ASP.NET Worker Process | MS02-026 | Moderate | 322289
+Unchecked Buffer in Content Management Server Could Enable Server Compromise | MS02-041 | Critical | 326075
+Unchecked Buffer in DirectX Could Enable System Compromise | MS03-030 | Critical | 819696
+Unchecked Buffer in File Decompression Functions Could Lead to Code Execution | MS02-054 | Moderate | 329048
+Unchecked Buffer in Gopher Protocol Handler Can Run Code of Attacker's Choice | MS02-027 | Critical | 323889
+Unchecked Buffer in ISAPI Extension Could Enable Compromise of IIS 5.0 Server | MS01-023 | Critical | 296576
+Unchecked Buffer in ISAPI Filter Could Allow Commerce Server Compromise | MS02-010 | Critical | 317615
+Unchecked Buffer in Index Server ISAPI Extension Could Enable Web Server Compromise | MS01-033 | Critical | 300972
+Unchecked Buffer in Internet Explorer and Office for Mac Can Cause Code to Execute | MS02-019 | Critical | 321309
+Unchecked Buffer in Locator Service Could Lead to Code Execution | MS03-001 | Critical | 810833
+Unchecked Buffer in MDAC Function Could Enable System Compromise | MS02-040 | Critical | 326573
+Unchecked Buffer in MDAC Function Could Enable System Compromise | MS03-033 | Important | 823718
+Unchecked Buffer in MSN Chat Control Can Lead to Code Execution | MS02-022 | Critical | 321661
+Unchecked Buffer in Network Share Provider Can Lead to Denial of Service | MS02-045 | Moderate | 326830
+Unchecked Buffer in Outlook Express S/MIME Parsing Could Enable System Compromise | MS02-058 | Critical | 328676
+Unchecked Buffer in PPTP Implementation Could Enable Denial of Service Attacks | MS02-063 | Critical | 329834
+Unchecked Buffer in Profile Service Could Allow Code Execution in Commerce Server | MS02-033 | Critical | 322273
+Unchecked Buffer in Remote Access Service Phonebook Could Lead to Code Execution | MS02-029 | Critical | 318138
+Unchecked Buffer in SNMP Service Could Enable Arbitrary Code to be Run | MS02-006 | Moderate | 314147
+Unchecked Buffer in SQL Server 2000 Utilities Could Allow Code Execution | MS02-038 | Moderate | 316333
+Unchecked Buffer in SQLXML Could Lead to Code Execution | MS02-030 | Moderate | 321911
+Unchecked Buffer in Telnet Server Could Lead to Arbitrary Code Execution | MS02-004 | Moderate | 307298
+Unchecked Buffer in Universal Plug and Play can Lead to System Compromise | MS01-059 | Critical | 
+Unchecked Buffer in Windows Help Facility Could Enable Code Execution | MS02-055 | Critical | 323255
+Unchecked Buffer in Windows Shell Could Enable System Compromise | MS02-072 | Critical | 329390
+Unchecked Buffer in Windows Shell Could Enable System Compromise | MS03-027 | Important | 821557
+Unchecked Buffer in Windows Shell Could Lead to Code Execution | MS02-014 | Moderate | 313829
+Unchecked buffer in Windows redirector may permit privilege elevation | MS03-005 | Important | 810577
+Unchecked buffer in the Multiple UNC Provider Could Enable Code Execution | MS02-017 | Moderate | 311967
+Unsafe Functions in Office Web Components | MS02-044 | Critical | 328130
+Unwanted Data Issue with Office 98 for the Macintosh | MS98-005 | None | 
+Visual Studio VB T-SQL Object Contains Unchecked Buffer | MS01-018 | Critical | 281297
+Vulnerability in ISAPI Extension for Windows Media Services Could Cause Code Execution | MS03-022 | Important | 822343
+Weak Permissions on Winsock Mutex Can Allow Service Failure | MS01-003 | Moderate | 279336
+Web Client Will Perform NTLM Authentication Regardless of Security Settings | MS01-001 | Low | 282132
+Web Request Can Cause Access Violation in ISA Server Web Proxy Service | MS01-021 | Moderate | 295279
+WebDAV Service Provider Can Allow Scripts to Levy Requests as User | MS01-022 | Critical | 296441
+Windows 2000 Default Permissions Could Allow Trojan Horse Program | MS02-064 | Moderate | 327522
+Windows 2000 Event Viewer Contains Unchecked Buffer | MS01-013 | Critical | 285156
+Windows Media Player .ASF Processor Contains Unchecked Buffer | MS01-056 | Critical | 308567
+Windows Media Player .ASX Processor Contains Unchecked Buffer | MS01-029 | Critical | 47366
+Windows Media Player .NSC Processor Contains Unchecked Buffer | MS01-042 | Critical | 55362
+Windows Media Player Skins Files Can Enable Java Code to Execute | MS01-010 | Critical | 287045
+Windows NT 4.0 Does Not Delete Unattended Installation File | MS99-036 | None | 
+Windows NT Privilege Elevation Attack | MS98-009 | None | 190288
+XMLHTTP Control Can Allow Access to Local Files | MS02-008 | Critical | 318202
+exposure in Forms 2.0 TextBox Control that allows data to be read from user's Clipboard | MS99-001 | None | 214757

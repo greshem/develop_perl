@@ -1,0 +1,93 @@
+asn1parse Parse an ASN.1 sequence.
+
+ca	 Certificate Authority (CA) Management.
+
+ciphers	 Cipher Suite Description Determination.
+
+cms	 CMS (Cryptographic Message Syntax) utility
+
+crl	 Certificate Revocation List (CRL) Management.
+
+crl2pkcs7 CRL to PKCS#7 Conversion.
+
+dgst	 Message Digest Calculation.
+
+dh	 Diffie-Hellman Parameter Management.  Obsoleted by dhparam.
+
+dhparam	 Generation and Management of Diffie-Hellman Parameters. Superseded by genpkey and pkeyparam
+
+dsa	 DSA Data Management.
+
+dsaparam	 DSA Parameter Generation and Management. Superseded by genpkey and pkeyparam
+
+ec	 EC (Elliptic curve) key processing
+
+ecparam	 EC parameter manipulation and generation
+
+enc	 Encoding with Ciphers.
+
+engine	 Engine (loadble module) information and manipulation.
+
+errstr	 Error Number to Error String Conversion.
+
+gendh	 Generation of Diffie-Hellman Parameters.  Obsoleted by dhparam.
+
+gendsa	 Generation of DSA Private Key from Parameters. Superseded by genpkey and pkey
+
+genpkey	 Generation of Private Key or Parameters.
+
+genrsa	 Generation of RSA Private Key. Superceded by genpkey.
+
+nseq	 Create or examine a netscape certificate sequence
+
+ocsp	 Online Certificate Status Protocol utility.
+
+passwd	 Generation of hashed passwords.
+
+pkcs12	 PKCS#12 Data Management.
+
+pkcs7	 PKCS#7 Data Management.
+
+pkey	 Public and private key management.
+
+pkeyparam Public key algorithm parameter management.
+
+pkeyutl	 Public key algorithm cryptographic operation utility.
+
+rand	 Generate pseudo-random bytes.
+
+req	 PKCS#10 X.509 Certificate Signing Request (CSR) Management.
+
+rsa	 RSA key management.
+
+rsautl	 RSA utility for signing, verification, encryption, and decryption. Superseded by  pkeyutl
+
+s_client	 This implements a generic SSL/TLS client which can establish a transparent connection to a remote server
+ speaking SSL/TLS. It's intended for testing purposes only and provides only rudimentary interface functionality
+ but internally uses mostly all functionality of the OpenSSL ssl library.
+
+s_server	 This implements a generic SSL/TLS server which accepts connections from remote clients speaking SSL/TLS. It's
+ intended for testing purposes only and provides only rudimentary interface functionality but internally uses
+ mostly all functionality of the OpenSSL ssl library.  It provides both an own command line oriented protocol
+ for testing SSL functions and a simple HTTP response facility to emulate an SSL/TLS-aware webserver.
+
+s_time	 SSL Connection Timer.
+
+sess_id	 SSL Session Data Management.
+
+smime	 S/MIME mail processing.
+
+speed	 Algorithm Speed Measurement.
+
+spkac	 SPKAC printing and generating utility
+
+ts	 Time Stamping Authority tool (client/server)
+
+verify	 X.509 Certificate Verification.
+
+version	 OpenSSL Version Information.
+
+x509	 X.509 Certificate Data Management.
+
+
+

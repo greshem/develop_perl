@@ -1,0 +1,750 @@
+Internet Information Services (IIS) FTP 服务中的漏洞可能允许远程执行代码 (2489256)|MS11-004| 重要|2489256
+Internet Explorer 的累积性安全更新 (2482017)|MS11-003| 严重|2482017
+Microsoft Data Access Components 中的漏洞可能允许远程执行代码 (2451910)|MS11-002| 严重|2451910
+Windows 备份管理器中的漏洞可能允许远程执行代码 (2478935)|MS11-001| 重要|2478935
+Microsoft Exchange Server 中的漏洞可能允许拒绝服务 (2407132)|MS10-106| 警告|2407132
+Microsoft Office 图形筛选器中的漏洞可能允许远程执行代码 (968095)|MS10-105| 重要|968095
+Microsoft SharePoint 中的漏洞可能允许远程执行代码 (2455005)|MS10-104| 重要|2455005
+Microsoft Publisher 中的漏洞可能允许远程执行代码 (2292970)|MS10-103| 重要|2292970
+Hyper-V 中的漏洞可能允许拒绝服务 (2345316)|MS10-102| 重要|2345316
+Windows Netlogon 服务中的漏洞可能允许拒绝服务 (2207559)|MS10-101| 重要|2207559
+Consent 用户界面中的漏洞可能允许特权提升 (2442962)|MS10-100| 重要|2442962
+路由和远程访问中的漏洞可能允许特权提升 (2440591)|MS10-099| 重要|2440591
+Windows 内核模式驱动程序中的漏洞可能允许特权提升 (2436673)|MS10-098| 重要|2436673
+Internet 连接注册向导中的库加载不安全可能允许远程执行代码 (2443105)|MS10-097| 重要|2443105
+Windows 通讯簿中的漏洞可能允许远程执行代码 (2423089)|MS10-096| 重要|2423089
+Microsoft Windows 中的漏洞可能允许远程执行代码 (2385678)|MS10-095| 重要|2385678
+Windows Media Encoder 中的漏洞可能允许远程执行代码 (2447961)|MS10-094| 重要|2447961
+Windows Movie Maker 中的漏洞可能允许远程执行代码 (2424434)|MS10-093| 重要|2424434
+任务计划程序中的漏洞可能允许特权提升 (2305420)|MS10-092| 重要|2305420
+OpenType 字体 (OTF) 驱动程序中的漏洞可能允许远程执行代码 (2296199)|MS10-091| 严重|2296199
+Internet Explorer 的累积性安全更新 (2416400)|MS10-090| 严重|2416400
+Forefront Unified Access Gateway (UAG) 中的漏洞可能允许特权提升 (2316074)|MS10-089| 重要|2316074
+Microsoft PowerPoint 中的漏洞可能允许远程执行代码 (2293386)|MS10-088| 重要|2293386
+Microsoft Office 中的漏洞可能允许远程执行代码 (2423930)|MS10-087| 严重|2423930
+Windows 共享群集磁盘中的漏洞可能允许篡改 (2294255)|MS10-086| 警告|2294255
+SChannel 中的漏洞可能允许拒绝服务 (2207566)|MS10-085| 重要|2207566
+Windows 本地过程调用中的漏洞可能导致特权提升 (2360937)|MS10-084| 重要|2360937
+Windows Shell 和写字板中的 COM 验证漏洞可能允许远程执行代码 (2405882)|MS10-083| 重要|2405882
+Windows Media Player 中的漏洞可能允许远程执行代码 (2378111)|MS10-082| 重要|2378111
+Windows 公共控件库中的漏洞可能允许远程执行代码 (2296011)|MS10-081| 重要|2296011
+Microsoft Excel 中的漏洞可能允许远程执行代码 (2293211)|MS10-080| 重要|2293211
+Microsoft Word 中的漏洞可能允许远程执行代码 (2293194)|MS10-079| 重要|2293194
+OpenType 字体 (OTF) 格式驱动程序中的漏洞可能允许特权提升 (2279986)|MS10-078| 重要|2279986
+.NET Framework 中的漏洞可能允许远程执行代码 (2160841)|MS10-077| 严重|2160841
+Embedded OpenType 字体引擎中的漏洞可能允许远程执行代码 (982132)|MS10-076| 严重|982132
+Media Player 网络共享服务中的漏洞可能允许远程执行代码 (2281679)|MS10-075| 严重|2281679
+Microsoft 基础类中的漏洞可能允许远程执行代码 (2387149)|MS10-074| 警告|2387149
+Windows 内核模式驱动程序中的漏洞可能允许特权提升 (981957)|MS10-073| 重要|981957
+SafeHTML 中的漏洞可能允许信息泄露 (2412048)|MS10-072| 重要|2412048
+Internet Explorer 的累积性安全更新 (2360131)|MS10-071| 严重|2360131
+ASP.NET 中的漏洞可能允许信息泄露 (2418042)|MS10-070| 重要|2418042
+Windows 客户端/服务器运行时子系统中的漏洞可能允许特权提升 (2121546)|MS10-069| 重要|2121546
+本地安全机构子系统服务中的漏洞可能允许特权提升 (983539)|MS10-068| 重要|983539
+写字板文本转换器中的漏洞可能允许远程执行代码 (2259922)|MS10-067| 重要|2259922
+远程过程调用中的漏洞可能允许远程执行代码 (982802)|MS10-066| 重要|982802
+Microsoft Internet Information Services (IIS) 中的漏洞可能允许远程执行代码 (2267960)|MS10-065| 重要|2267960
+Microsoft Outlook 中的漏洞可能允许远程执行代码 (2315011)|MS10-064| 严重|2315011
+Unicode 脚本处理器中的漏洞可能允许远程执行代码 (2320113)|MS10-063| 严重|2320113
+MPEG-4 编码解码器中的漏洞可能允许远程执行代码 (975558)|MS10-062| 严重|975558
+打印后台程序服务中的漏洞可能允许远程执行代码 (2347290)|MS10-061| 严重|2347290
+Microsoft .NET 公共语言运行时和 Microsoft Silverlight 中的漏洞可能允许远程执行代码 (2265906)|MS10-060| 严重|2265906
+Tracing Feature for Services 中的漏洞可能允许特权提升 (982799)|MS10-059| 重要|982799
+TCP/IP 中的漏洞可能允许特权提升|MS10-058| 重要|978886
+Microsoft Office Excel 中的漏洞可能允许远程执行代码 (2269707)|MS10-057| 重要|2269707
+Microsoft Office Word 中的漏洞可能允许远程执行代码 (2269638)|MS10-056| 严重|2269638
+Cinepak 编解码器中的漏洞可能允许远程执行代码 (982665)|MS10-055| 严重|982665
+SMB 服务器中的漏洞可能允许远程执行代码 (982214)|MS10-054| 严重|982214
+Internet Explorer 的累积性安全更新 (2183461)|MS10-053| 严重|2183461
+Microsoft MPEG Layer-3 编码解码器中的漏洞可能允许远程执行代码 (2115168)|MS10-052| 严重|2115168
+Microsoft XML Core Services 中的漏洞可能允许远程执行代码 (2079403)|MS10-051| 严重|2079403
+Windows Movie Maker 中的漏洞可能允许远程执行代码 (981997)|MS10-050| 重要|981997
+SChannel 中的漏洞可能允许远程执行代码 (980436)|MS10-049| 严重|980436
+Windows 内核模式驱动程序中的漏洞可能允许特权提升 (2160329)|MS10-048| 重要|2160329
+Windows 内核中的漏洞可能允许特权提升 (981852)|MS10-047| 重要|981852
+Windows Shell 中的漏洞可能允许远程执行代码 (2286198)|MS10-046| 严重|2286198
+Microsoft Office Outlook 中的漏洞可以允许远程执行代码 (978212)|MS10-045| 重要|978212
+Microsoft Office Access ActiveX 控件中的漏洞可以允许远程执行代码 (982335)|MS10-044| 严重|982335
+Canonical Display Driver 中的漏洞可能允许远程执行代码 (2032276)|MS10-043| 严重|2032276
+帮助和支持中心中的漏洞可以允许远程执行代码 (2229593)|MS10-042| 严重|2229593
+Microsoft .NET Framework 中的漏洞可能允许篡改 (981343)|MS10-041| 重要|981343
+Internet Information Services 中的漏洞可能允许远程执行代码 (982666)|MS10-040| 重要|982666
+Microsoft SharePoint 中的漏洞可能允许特权提升 (2028554)|MS10-039| 重要|2028554
+Microsoft Office Excel 中的漏洞可能允许远程执行代码 (2027452)|MS10-038| 重要|2027452
+OpenType 压缩字体格式 (CFF) 驱动程序中的漏洞可能允许特权提升 (980218)|MS10-037| 重要|980218
+Microsoft Office 中的 COM 验证漏洞可能允许远程执行代码 (983235)|MS10-036| 重要|983235
+Internet Explorer 的累积性安全更新|MS10-035| 严重|982381
+ActiveX Kill Bit 的累积性安全更新 (980195)|MS10-034| 严重|980195
+媒体解压缩中的漏洞可能允许远程执行代码 (979902)|MS10-033| 严重|979902
+Windows 内核模式驱动程序中的漏洞可能允许特权提升 (979559)|MS10-032| 重要|979559
+Microsoft Visual Basic for Applications 中的漏洞可能允许远程执行代码 (978213)|MS10-031| 严重|978213
+Outlook Express 和 Windows Mail 中的漏洞可能允许远程执行代码 (978542)|MS10-030| 严重|978542
+Windows ISATAP 组件中的漏洞可能允许欺骗 (978338)|MS10-029| 警告|978338
+Microsoft Visio 中的漏洞可能允许远程执行代码 (980094)|MS10-028| 重要|980094
+Windows Media Player 中的漏洞可能允许远程执行代码 (979402)|MS10-027| 严重|979402
+Microsoft MPEG Layer-3 编码解码器中的漏洞可能允许远程执行代码 (977816)|MS10-026| 严重|977816
+Microsoft Windows Media Services 中的漏洞可能允许远程执行代码 (980858)|MS10-025| 严重|980858
+Microsoft Exchange 和 Windows SMTP 服务中的漏洞可能允许拒绝服务 (981832)|MS10-024| 重要|981832
+Microsoft Office Publisher 中的漏洞可能允许远程执行代码 (981160)|MS10-023| 重要|981160
+VBScript 脚本引擎中的漏洞可能允许远程执行代码 (981169)|MS10-022| 重要|981169
+Windows 内核中的漏洞可能允许特权提升 (979683)|MS10-021| 重要|979683
+SMB 客户端中的漏洞可能允许远程执行代码 (980232)|MS10-020| 严重|980232
+Windows 中的漏洞可能允许远程执行代码 (981210)|MS10-019| 严重|981210
+Internet Explorer 的累积性安全更新 (980182)|MS10-018| 严重|980182
+Microsoft Office Excel 中的漏洞可能允许远程执行代码 (980150)|MS10-017| 重要|980150
+Windows Movie Maker 中的漏洞可能允许远程执行代码 (975561)|MS10-016| 重要|975561
+Windows 内核中的漏洞可能允许特权提升 (977165)|MS10-015| 重要|977165
+Kerberos 中的漏洞可能允许拒绝服务 (977290)|MS10-014| 重要|977290
+Microsoft DirectShow 中的漏洞可能允许远程执行代码 (977935)|MS10-013| 严重|977935
+SMB 服务器中的漏洞可能允许远程执行代码 (971468)|MS10-012| 重要|971468
+Windows 客户端/服务器运行时子系统中的漏洞可能允许特权提升 (978037)|MS10-011| 重要|978037
+Windows Server 2008 Hyper-V 中的漏洞可能允许拒绝服务 (977894)|MS10-010| 重要|977894
+Windows TCP/IP 中的漏洞可能允许远程执行代码 (974145)|MS10-009| 严重|974145
+ActiveX Kill Bit 的累积性安全更新 (978262)|MS10-008| 严重|978262
+Windows Shell 处理程序中的漏洞可能允许远程执行代码 (975713)|MS10-007| 严重|975713
+SMB 客户端中的漏洞可能允许远程执行代码 (978251)|MS10-006| 严重|978251
+Microsoft Paint 中的漏洞可能允许远程执行代码 (978706)|MS10-005| 警告|978706
+Microsoft Office PowerPoint 中的漏洞可能允许远程执行代码 (975416)|MS10-004| 重要|975416
+Microsoft Office (MSO) 中的漏洞可能允许远程执行代码 (978214)|MS10-003| 重要|978214
+Internet Explorer 的累积性安全更新 (978207)|MS10-002| 严重|978207
+Embedded OpenType 字体引擎中的漏洞可能允许远程执行代码 (972270)|MS10-001| 严重|972270
+Microsoft Office Project 中的漏洞可能允许远程执行代码 (967183)|MS09-074| 严重|967183
+写字板和 Office 文本转换器中的漏洞可能允许远程执行代码 (960477)                  |MS09-073| 重要|975539
+Internet Explorer 的累积性安全更新 (976325)|MS09-072| 严重|976325
+Internet 验证服务中的漏洞可能允许远程执行代码 (974318)|MS09-071| 严重|974318
+Active Directory Federation Services 中的漏洞可能允许远程执行代码 (971726)|MS09-070| 重要|971726
+本地安全机构子系统服务中的漏洞可能允许拒绝服务 (974392)|MS09-069| 重要|974392
+Microsoft Office Word 中的漏洞可能允许远程执行代码 (976307)|MS09-068| 重要|976307
+Microsoft Office Excel 中的漏洞可能允许远程执行代码 (972652)|MS09-067| 重要|972652
+Active Directory 中的漏洞可能允许拒绝服务 (973309)|MS09-066| 重要|973309
+Windows 内核模式驱动程序中的漏洞可能允许远程执行代码 (969947)|MS09-065| 严重|969947
+License Logging Server 中的漏洞可能允许远程执行代码 (974783)|MS09-064| 严重|974783
+Web Services on Devices API 中的漏洞可能允许远程执行代码 (973565)|MS09-063| 严重|973565
+GDI+ 中的漏洞可能允许远程执行代码 (957488)|MS09-062| 严重|957488
+Microsoft .NET 公共语言运行时中的漏洞可能允许远程执行代码 (974378)|MS09-061| 严重|974378
+Microsoft Office 的 Microsoft 活动模板库 (ATL) ActiveX 控件中的漏洞可能允许远程执行代码（973965）|MS09-060| 严重|973965
+本地安全机构子系统服务中的漏洞可能允许拒绝服务 (975467)|MS09-059| 重要|975467
+Windows 内核中的漏洞可能允许特权提升 (971486)|MS09-058| 重要|971486
+索引服务中的漏洞可能允许远程执行代码 (969059)                                 |MS09-057| 重要|969059
+Windows CryptoAPI 中的漏洞可能允许欺骗 (974571)|MS09-056| 重要|974571
+ActiveX Kill Bit 的累积性安全更新 (973525)|MS09-055| 严重|973525
+Internet Explorer 的累积性安全更新 (974455)|MS09-054| 严重|974455
+用于 Internet 信息服务的 FTP 服务中的漏洞可能允许远程执行代码 (975254)|MS09-053| 重要|975254
+Windows Media Player 中的漏洞可能允许远程执行代码 (974112)|MS09-052| 严重|974112
+Windows Media Runtime 中的漏洞可能允许远程执行代码 (975682)|MS09-051| 严重|975682
+SMBv2 中的漏洞可能允许远程执行代码 (975517)|MS09-050| 严重|975517
+无线局域网 AutoConfig 服务中的漏洞可能允许远程执行代码 (970710)|MS09-049| 严重|970710
+Windows TCP/IP 中的漏洞可能允许远程执行代码 (967723)|MS09-048| 严重|967723
+Windows Media Format 中的漏洞可能允许远程执行代码 (973812)|MS09-047| 严重|973812
+DHTML 编辑组件 ActiveX 控件中的安全漏洞可能允许远程执行代码 (956844)|MS09-046| 严重|956844
+JScript 脚本引擎中的漏洞可能允许远程执行代码 (971961)|MS09-045| 严重|971961
+远程桌面连接中的漏洞可能允许远程执行代码 (970927)                  |MS09-044| 严重|970927
+Microsoft Office Web Components 中的漏洞可能允许远程执行代码 (957638)|MS09-043| 严重|957638
+Telnet 中的漏洞可能允许远程执行代码 (960859)|MS09-042| 重要|960859
+Workstation 服务中的漏洞可能允许特权提升 (971657)|MS09-041| 重要|971657
+服务器队列中的漏洞可能允许特权提升 (971032) |MS09-040| 重要|971032
+WINS 中的漏洞可能允许远程执行代码 (969883)|MS09-039| 严重|969883
+Windows Media 文件处理中的漏洞可能允许远程执行代码 (971557)|MS09-038| 严重|971557
+Microsoft 活动模板库 (ATL) 中的漏洞可能允许远程执行代码 (973908)|MS09-037| 严重|973908
+Microsoft Windows 中的 ASP.NET 中的漏洞可能允许拒绝服务 (970957)                  |MS09-036| 重要|970957
+Visual Studio 活动模板库中的漏洞可能允许远程执行代码 (969706)|MS09-035| 警告|969706
+Internet Explorer 的累积性安全更新  (972260)|MS09-034| 严重|972260
+Virtual PC 和 Virtual Server 中的漏洞可能允许特权提升 (969856)|MS09-033| 重要|969856
+ActiveX Kill Bit 的累积性安全更新 (973346)|MS09-032| 严重|973346
+Microsoft ISA Server 2006 中的漏洞可能导致特权提升 (970953)|MS09-031| 重要|970953
+Microsoft Office Publisher 中的漏洞可能允许远程执行代码 (969516)|MS09-030| 重要|969516
+Embedded OpenType 字体引擎中的漏洞可能允许远程执行代码 (961371)|MS09-029| 严重|961371
+Microsoft DirectShow 中的漏洞可能允许远程执行代码 (971633)|MS09-028| 严重|971633
+Microsoft Office Word 中的漏洞可能允许远程执行代码 (969514)|MS09-027| 严重|969514
+RPC 中的漏洞可能允许特权提升 (970238)|MS09-026| 重要|970238
+Windows 内核中的漏洞可能允许特权提升 (968537)|MS09-025| 重要|968537
+Microsoft Works 转换器中的漏洞可能允许远程执行代码 (957632)|MS09-024| 严重|957632
+Windows Search 中的漏洞可能导致信息泄露 (963093)|MS09-023| 警告|963093
+Windows 打印后台处理程序中的漏洞可能允许远程执行代码 (961501)|MS09-022| 严重|961501
+Microsoft Office Excel 中的漏洞可能允许远程执行代码 (969462)|MS09-021| 严重|969462
+Internet 信息服务 (IIS) 中的漏洞可能允许特权提升 (970483)|MS09-020| 重要|970483
+Internet Explorer 的累积性安全更新 (969897)|MS09-019| 严重|969897
+Active Directory 中的漏洞可能允许远程执行代码 (971055)|MS09-018| 严重|971055
+Microsoft Office PowerPoint 中的漏洞可能允许远程执行代码 (967340)|MS09-017| 严重|967340
+Microsoft ISA Server 和 Forefront Threat Management Gateway  (Medium Business Edition) 中的漏洞可能导致拒绝服务 (961759)|MS09-016| 重要|961759
+SearchPath 中的混合威胁漏洞可能允许特权提升 (959426)|MS09-015| 警告|959426
+Internet Explorer 的累积性安全更新 (963027)|MS09-014| 严重|963027
+Windows HTTP 服务中的漏洞可能允许远程执行代码 (960803)|MS09-013| 严重|960803
+Windows 中的漏洞可能允许特权提升 (959454)|MS09-012| 重要|959454
+Microsoft DirectShow 中的漏洞可能允许远程执行代码 (961373)|MS09-011| 严重|961373
+写字板和 Office 文本转换器中的漏洞可能允许远程执行代码 (960477)|MS09-010| 严重|960477
+Microsoft Office Excel 中的漏洞可以导致远程执行代码 (968557)|MS09-009| 严重|968557
+DNS 和 WINS 服务器中的漏洞可能允许欺骗 (962238)|MS09-008| 重要|962238
+SChannel 中的漏洞可能允许欺骗 (960225)|MS09-007| 重要|960225
+Windows 内核中的漏洞可能允许远程执行代码 (958690)|MS09-006| 严重|958690
+Microsoft Office Visio 中的漏洞可能允许远程执行代码 (957634)|MS09-005| 重要|957634
+Microsoft SQL Server 中的漏洞可能允许远程执行代码 (959420)|MS09-004| 重要|959420
+Microsoft Exchange 中的漏洞可能允许远程执行代码 (959239)|MS09-003| 严重|959239
+Internet Explorer 的累积性安全更新 (961260)|MS09-002| 严重|961260
+SMB 中的漏洞可能允许远程执行代码 (958687)|MS09-001| 严重|958687
+Internet Explorer 安全更新 (960714)|MS08-078| 严重|960714
+Microsoft Office SharePoint Server 中的漏洞可能导致特权提升 (957175)|MS08-077| 重要|957175
+Windows Media 组件中的漏洞可能允许远程执行代码 (959807)|MS08-076| 重要|959349
+Windows Search 中的漏洞可能允许远程执行代码 (959349)|MS08-075| 严重|959349
+Microsoft Office Excel 中的漏洞可能允许远程执行代码 (959070)|MS08-074| 严重|959070
+Internet Explorer 的累积性安全更新 (958215)|MS08-073| 严重|958215
+Microsoft Office Word 中的漏洞可能允许远程执行代码 (957173)|MS08-072| 严重|957173
+GDI 中的漏洞可能允许远程执行代码 (956802)|MS08-071| 严重|956802
+Visual Basic 6.0 运行时扩展文件（ActiveX 控件）中的漏洞可能允许远程执行代码 (932349)|MS08-070| 严重|932349
+Microsoft XML Core Services 中的漏洞可能允许远程执行代码 (955218)|MS08-069| 严重|955218
+SMB 中的漏洞可能允许远程执行代码 (957097)|MS08-068| 重要|957097
+服务器服务中的漏洞可能允许远程执行代码 (958644)|MS08-067| 严重|958644
+Microsoft Ancillary Function Driver 中的漏洞可能允许特权提升 (956803)|MS08-066| 重要|956803
+消息队列中的漏洞可能允许远程执行代码 (951071)|MS08-065| 重要|951071
+虚拟地址描述符操作中的漏洞可能允许特权提升 (956841)|MS08-064| 重要|956841
+SMB 中的漏洞可能允许远程执行代码 (957095)|MS08-063| 重要|957095
+Windows Internet 打印服务中的漏洞可能允许远程执行代码 (953155)|MS08-062| 重要|953155
+Windows 内核中的漏洞可能允许特权提升 (954211)|MS08-061| 重要|954211
+Active Directory 中的漏洞可能允许远程执行代码 (957280)|MS08-060| 严重|957280
+Host Integration Server RPC Service 中的漏洞可能允许远程执行代码 (956695)|MS08-059| 严重|956695
+Internet Explorer 的累积性安全更新 (956390)|MS08-058| 严重|956390
+Microsoft Excel 中的漏洞可能允许远程执行代码 (956416)|MS08-057| 严重|956416
+Microsoft Office 中的漏洞可能允许信息泄露 (957699)|MS08-056| 警告|957699
+Microsoft Office 中的漏洞可能允许远程执行代码 (955047)|MS08-055| 严重|955047
+Windows Media Player 中的漏洞可能允许远程执行代码 (954154)|MS08-054| 严重|954154
+Windows Media Encoder 9 中的漏洞可能允许远程执行代码 (954156)|MS08-053| 严重|954156
+GDI+ 中的漏洞可能允许远程执行代码 (954593)|MS08-052| 严重|954593
+Microsoft PowerPoint 中的漏洞可能允许远程执行代码 (949785)|MS08-051| 严重|949785
+Windows Messenger 中的漏洞可能导致信息泄露 (955702)|MS08-050| 重要|955702
+事件系统中的漏洞可能允许远程执行代码 (950974)|MS08-049| 重要|950974
+Outlook Express 和 Windows Mail 的安全更新 (951066)|MS08-048| 重要|951066
+IPsec 策略处理中的漏洞可能导致信息泄露 (953733)|MS08-047| 重要|953733
+Microsoft Windows 图像颜色管理系统中的漏洞可能允许远程执行代码 (952954)|MS08-046| 严重|952954
+Internet Explorer 的累积性安全更新 (953838)|MS08-045| 严重|953838
+Microsoft Office 筛选器中的漏洞可能允许远程执行代码 (924090)|MS08-044| 严重|924090
+Microsoft Excel 中的漏洞可能允许远程执行代码 (954066)|MS08-043| 严重|954066
+Microsoft Word 中的漏洞可能允许远程执行代码 (955048)|MS08-042| 重要|955048
+Snapshot Viewer for Microsoft Access 的 ActiveX 控件中的漏洞可能允许远程执行代码 (955617)|MS08-041| 严重|955617
+Microsoft SQL Server 中的漏洞可能允许特权提升 (941203)|MS08-040| 重要|941203
+Outlook Web Access for Exchange Server 中的漏洞可允许特权提升 (953747)|MS08-039| 重要|953747
+Windows 资源管理器中的漏洞可能允许远程执行代码 (950582)|MS08-038| 重要|950582
+DNS 中的漏洞可允许欺骗 (953230)|MS08-037| 重要|953230
+实际通用多播 (PGM) 中的漏洞可能允许拒绝服务 (950762)|MS08-036| 重要|950762
+Active Directory 中的漏洞可能允许拒绝服务 (953235)|MS08-035| 重要|953235
+WINS 中的漏洞可能允许特权提升 (948745)|MS08-034| 重要|948745
+DirectX 中的漏洞可能允许远程执行代码 (951698)|MS08-033| 严重|951698
+ActiveX Kill Bits 的累积性安全更新 (950760)|MS08-032| 警告|950760
+Internet Explorer 的累积性安全更新 (950759)|MS08-031| 严重|950759
+Bluetooth 堆栈中的漏洞可能允许远程执行代码 (951376)|MS08-030| 严重|951376
+Microsoft 恶意软件保护引擎中的漏洞可能允许拒绝服务（952044）|MS08-029| 警告|952044
+Microsoft Jet 数据库引擎中的漏洞可能允许远程执行代码 (950749)|MS08-028| 严重|950749
+Microsoft Publisher 中的漏洞可能允许远程执行代码 (951208)|MS08-027| 严重|951208
+Microsoft Word 中的漏洞可能允许远程执行代码 (951207)|MS08-026| 严重|951207
+Windows 内核中的漏洞可能允许特权提升 (941693)|MS08-025| 重要|941693
+Internet Explorer 的累积性安全更新 (947864)|MS08-024| 严重|947864
+ActiveX Kill Bit 的安全更新 (948881) |MS08-023| 严重|948881
+VBScript 和 JScript 脚本引擎中的漏洞可能允许远程执行代码 (944338)|MS08-022| 严重|944338
+GDI 中的漏洞可能允许远程执行代码 (948590)|MS08-021| 严重|948590
+DNS 客户端中的漏洞可能允许欺骗 (945553)|MS08-020| 重要|945553
+Vulnerabilities in Microsoft Visio Could Allow Remote Code Execution|MS08-019| 重要|949032
+Microsoft Project 中的漏洞可能允许远程执行代码 (950183)|MS08-018| 严重|950183
+Microsoft Office Web Components 中的漏洞可能允许远程执行代码 (933103)|MS08-017| 严重|933103
+Microsoft Office 中的漏洞可能允许远程执行代码 (949030)|MS08-016| 严重|949030
+Microsoft Outlook 中的漏洞可能允许远程执行代码 (949031)|MS08-015| 严重|949031
+Microsoft Excel 中的漏洞可能允许远程执行代码 (949029)|MS08-014| 严重|949029
+Microsoft Office 中的漏洞可能允许远程执行代码 (947108)|MS08-013| 严重|947108
+内核模式驱动程序中的漏洞可能允许特权提升|MS13-046| 重要|2840221
+Windows 软件包中的漏洞可能导致信息泄露|MS13-045| 重要|2813707
+Microsoft Visio 中的漏洞可能允许信息泄露|MS13-044| 重要|2834692
+Microsoft Word 中的漏洞可能允许远程执行代码|MS13-043| 重要|2830399
+Microsoft Publisher 中的漏洞可能允许远程执行代码|MS13-042| 重要|2830397
+Lync 中的漏洞可能允许远程执行代码|MS13-041| 重要|2834695
+.NET Framework 中的漏洞可能允许欺骗|MS13-040| 重要|2836440
+HTTP.sys 中的漏洞可能允许拒绝服务|MS13-039| 重要|2829254
+Internet Explorer 安全更新|MS13-038| 严重|2847204
+Internet Explorer 的累积性安全更新|MS13-037| 严重|2829530
+内核模式驱动程序中的漏洞可能允许特权提升|MS13-036| 重要|2829996
+HTML 清理组件中的漏洞可能允许特权提升|MS13-035| 重要|2821818
+Microsoft 反恶意软件客户端中的漏洞可能允许特权提升|MS13-034| 重要|2823482
+Windows 客户端/服务器运行时子系统 (CSRSS) 中的漏洞可能允许特权提升|MS13-033| 重要|2820917
+Active Directory 中的漏洞可能导致拒绝服务|MS13-032| 重要|2830914
+Windows 内核中的漏洞可能允许特权提升|MS13-031| 重要|2813170
+SharePoint 中的漏洞可能允许信息泄露|MS13-030| 重要|2827663
+远程桌面客户端中的漏洞可能允许远程执行代码|MS13-029| 严重|2828223
+Internet Explorer 的累积性安全更新|MS13-028| 严重|2817183
+内核模式驱动程序中的漏洞可能允许特权提升|MS13-027| 重要|2807986
+Microsoft Office for Mac 中的漏洞可能允许信息泄露|MS13-026| 重要|2813682
+Microsoft OneNote 中的漏洞可能允许信息泄露|MS13-025| 重要|2816264
+SharePoint 中的漏洞可能允许特权提升|MS13-024| 严重|2780176
+Microsoft Visio Viewer 2010 中的漏洞可能允许远程执行代码|MS13-023| 严重|2801261
+Silverlight 中的漏洞可能允许远程执行代码|MS13-022| 严重|2814124
+Microsoft Office Publisher 中的漏洞可能允许远程执行代码 (947085)|MS08-012| 严重|947085
+Microsoft Works 文件转换器中的漏洞可能允许远程执行代码 (947081)|MS08-011| 重要|947081
+Internet Explorer 的累积性安全更新 (944533)|MS08-010| 严重|944533
+Microsoft Word 中的漏洞可能允许远程执行代码 (947077)|MS08-009| 严重|947077
+OLE 自动化中的漏洞可能允许远程执行代码 (947890)|MS08-008| 严重|947890
+WebDAV Mini-Redirector 中的漏洞可能允许远程执行代码 (946026)|MS08-007| 严重|946026
+Internet Information Services 中的漏洞可能允许远程执行代码 (942830)|MS08-006| 重要|942830
+Internet Information Services 中的漏洞可能允许特权提升 (942831)|MS08-005| 重要|942831
+Windows TCP/IP 中的漏洞可能允许拒绝服务 (946456)|MS08-004| 重要|946456
+Active Directory 中的漏洞可能允许拒绝服务 (946538)|MS08-003| 重要|946538
+Windows TCP/IP 中的漏洞可能允许远程执行代码 (941644)|MS08-001| 严重|941644
+LSASS 中的漏洞可能允许本地特权提升 (943485)|MS08-002| 重要|943485
+Internet Explorer 的累积性安全更新 (942615)|MS07-069| 严重|942615
+Windows Media File Format 中的漏洞可能允许远程执行代码（941569 和 944275）|MS07-068| 严重|941569
+Macrovision 驱动程序中的漏洞可能允许本地特权提升 (944653)）|MS07-067| 重要|944653
+Windows 内核中的漏洞可能允许特权提升 (943078)|MS07-066| 重要|943078
+消息队列中的漏洞可能允许远程执行代码 (937894)|MS07-065| 重要|937894
+DirectX 中的漏洞可能允许远程执行代码 (941568)|MS07-064| 严重|941568
+SMBv2 中的漏洞可能允许远程执行代码 (942624)|MS07-063| 严重|942624
+DNS 中的漏洞可能允许欺骗 (941672)|MS07-062| 重要|941672
+Windows URI 处理中的漏洞可能允许远程执行代码 (943460)|MS07-061| 严重|943460
+Microsoft Word 中的漏洞可能允许远程执行代码 (942695)|MS07-060| 严重|942695
+Windows SharePoint Services 3.0 和 Office SharePoint Server 2007 中的漏洞可能导致 SharePoint 站点中的特权提升 (942017)|MS07-059| 重要|942017
+RPC 中的漏洞可能允许拒绝服务 (933729)|MS07-058| 重要|933729
+Internet Explorer 的累积性安全更新 (939653)|MS07-057| 严重|939653
+Outlook Express 和 Windows Mail 的安全更新 (941202)|MS07-056| 严重|941202
+Kodak 图像查看器中的漏洞可能允许远程执行代码 (923810)|MS07-055| 严重|923810
+MSN Messenger 和 Windows Live Messenger 中的漏洞可能允许远程执行代码 (942099)|MS07-054| 重要|942099
+Windows Services for UNIX 中的漏洞可能允许特权提升 (939778)|MS07-053| 重要|939778
+Crystal Reports for Visual Studio 中的漏洞可能允许远程执行代码 (941522)|MS07-052| 重要|941522
+Microsoft Agent 中的漏洞可能允许远程执行代码 (938827)|MS07-051| 严重|938827
+矢量标记语言中的漏洞可能允许远程执行代码 (938127)|MS07-050| 严重|938127
+Virtual PC 和 Virtual Server 中的漏洞可能允许特权提升 (937986)|MS07-049| 重要|937986
+Windows 小工具中的漏洞可能允许远程执行代码 (938123)|MS07-048| 重要|938123
+Windows Media Player 中的漏洞可能允许远程执行代码 (936782)|MS07-047| 重要|936782
+GDI 中的漏洞可能允许远程执行代码 (938829)|MS07-046| 严重|938829
+Internet Explorer 的累积性安全更新 (937143)|MS07-045| 严重|937143
+Microsoft Excel 中的漏洞可能允许远程执行代码 (940965)|MS07-044| 严重|940965
+OLE 自动化中的漏洞可能允许远程执行代码 (921503)|MS07-043| 严重|921503
+Microsoft XML Core Services 中的漏洞可能允许远程执行代码 (936227)|MS07-042| 严重|936227
+Microsoft Internet Information Services 中的漏洞可能允许远程执行代码 (939373)|MS07-041| 重要|939373
+.NET Framework 中的漏洞可能允许远程执行代码 (931212)|MS07-040| 严重|931212
+Windows Active Directory 中的漏洞可能允许远程执行代码 (926122)|MS07-039| 严重|926122
+Windows Vista 防火墙中的漏洞可能允许信息泄露 (935807)|MS07-038| 警告|935807
+Microsoft Office Publisher 2007 中的漏洞可能允许远程执行代码 (936548)|MS07-037| 严重|936548
+Microsoft Excel 中的漏洞可能允许远程执行代码 (936542)|MS07-036| 严重|936542
+Win 32 API 中的漏洞可能允许远程执行代码 (935839)|MS07-035| 严重|935839
+Outlook Express 和 Windows Mail 的累积性安全更新 (929123)|MS07-034| 严重|929123
+Internet Explorer 的累积性安全更新 (933566)|MS07-033| 严重|933566
+Windows Vista 中的漏洞可能导致信息泄露 (931213)|MS07-032| 警告|931213
+Windows Schannel 安全程序包中的漏洞可能允许远程执行代码 (935840)|MS07-031| 严重|935840
+Microsoft Visio 中的漏洞可能允许远程执行代码 (927051)|MS07-030| 重要|927051
+Windows DNS RPC 接口中的漏洞可能允许远程执行代码 (935966)|MS07-029| 严重|935966
+CAPICOM 中的漏洞可能允许远程执行代码 (931906)|MS07-028| 严重|931906
+Internet Explorer 的累积性安全更新 (931768)|MS07-027| 严重|931768
+Microsoft Exchange 中的漏洞可能允许远程执行代码 (931832)|MS07-026| 严重|931832
+Microsoft Office 中的漏洞可能允许远程执行代码 (934873)|MS07-025| 严重|934873
+Microsoft Word 中的漏洞可能允许远程执行代码 (934232)|MS07-024| 严重|934232
+Microsoft Excel 中的漏洞可能允许远程执行代码 (934233)|MS07-023| 严重|934233
+Windows 内核中的漏洞可能允许特权提升 (931784)|MS07-022| 重要|931784
+CSRSS 中的漏洞可能允许远程执行代码 (930178)|MS07-021| 严重|930178
+Microsoft Agent 中的漏洞可能允许远程执行代码 (932168)|MS07-020| 严重|932168
+通用即插即用中的漏洞可能允许远程执行代码 (931261)|MS07-019| 严重|931261
+Microsoft 内容管理服务器中的漏洞可能允许远程执行代码 (925939)|MS07-018| 严重|925939
+GDI 中的漏洞可能允许远程执行代码 (925902)|MS07-017| 严重|925902
+Internet Explorer 的累积性安全更新 (928090)|MS07-016| 严重|928090
+Microsoft Office 中的漏洞可能允许远程执行代码 (932554)|MS07-015| 严重|932554
+Microsoft Word 中的漏洞可能允许远程执行代码 (929434)|MS07-014| 严重|929434
+Microsoft RichEdit 中的漏洞可能允许远程执行代码 (918118)|MS07-013| 重要|918118
+Microsoft MFC 中的漏洞可能允许远程执行代码 (924667)|MS07-012| 重要|924667
+Microsoft OLE Dialog 中的漏洞可能允许远程执行代码 (926436)|MS07-011| 重要|926436
+Microsoft 恶意软件保护引擎中的漏洞可能允许远程执行代码 (932135)|MS07-010| 严重|932135
+Microsoft Data Access Components 中的漏洞可能允许远程执行代码 (927779)|MS07-009| 严重|927779
+HTML 帮助 ActiveX 控件中的漏洞能够允许远程执行代码 (928843)|MS07-008| 严重|928843
+Windows 图像捕获服务中的漏洞可能允许特权提升 (927802)|MS07-007| 重要|927802
+Windows Shell 中的漏洞可能允许特权提升 (928255)|MS07-006| 重要|928255
+Step-by-Step Interactive Training 中的漏洞可能允许远程执行代码 (923723)|MS07-005| 重要|923723
+矢量标记语言中的漏洞可能允许远程执行代码 (929969)|MS07-004| 严重|929969
+Microsoft Outlook 中的漏洞可能允许远程执行代码 (925938)|MS07-003| 严重|925938
+Microsoft Excel 中的漏洞可能允许远程执行代码 (927198)|MS07-002| 严重|927198
+Microsoft Office 2003 葡萄牙语（巴西）语法检查器中的漏洞可能导致远程执行代码 (921585)|MS07-001| 重要|921585
+Windows Media Format 中的漏洞可能允许远程执行代码 (923689)|MS06-078| 严重|923689
+远程安装服务中的漏洞可能允许远程执行代码 (926121)|MS06-077| 重要|926121
+Outlook Express 的累积性安全更新 (923694)|MS06-076| 重要|923694
+Windows 中的漏洞可能允许特权提升 (926255)|MS06-075| 重要|926255
+SNMP 中的漏洞可能允许远程执行代码 (926247)|MS06-074| 重要|926247
+Visual Studio 2005 中的漏洞可能允许远程执行代码 (925674)|MS06-073| 严重|925674
+Internet Explorer 的累积性安全更新 (925454)|MS06-072| 严重|925454
+Microsoft XML 核心服务中的漏洞可能允许远程执行代码 (928088)|MS06-071| 严重|928088
+Workstation 服务中的漏洞可能允许远程执行代码 (924270)|MS06-070| 严重|924270
+Adobe Macromedia Flash Player 中的漏洞可能允许远程执行代码 (923789)|MS06-069| 严重|923789
+Microsoft Agent 中的漏洞可能允许远程执行代码 (920213)|MS06-068| 严重|920213
+Internet Explorer 的累积性安全更新 (922760)|MS06-067| 严重|922760
+NetWare 客户端服务中的漏洞可能允许远程执行代码 (923980)|MS06-066| 重要|923980
+Windows 对象包装程序中的漏洞可能允许远程执行 (924496)|MS06-065| 警告|924496
+TCP-IP IPv6 中的漏洞可能允许拒绝服务 (922819)|MS06-064| 注意|922819
+Server 服务中的漏洞可能允许拒绝服务和远程执行代码 (923414)|MS06-063| 重要|923414
+Microsoft Office 中的漏洞可能允许远程执行代码 (922581)|MS06-062| 严重|922581
+Microsoft XML 核心服务中的漏洞可能允许远程执行代码 (924191)|MS06-061| 严重|924191
+Microsoft Word 中的漏洞可能允许远程执行代码 (924554)|MS06-060| 严重|924554
+Microsoft Excel 中的漏洞可能允许远程执行代码 (924164)|MS06-059| 严重|624164
+Microsoft PowerPoint 中的漏洞可能允许远程执行代码 (924163)|MS06-058| 严重|924163
+Windows 资源管理器中的漏洞可能允许远程执行 (923191)|MS06-057| 严重|923191
+ASP.NET 2.0 中的漏洞可能允许信息泄露 (922770)|MS06-056| 警告|922770
+矢量标记语言中的漏洞可能允许远程执行代码 (925486)|MS06-055| 严重|925486
+Microsoft Publisher 中的漏洞可能允许远程执行代码 (910729)|MS06-054| 严重|910729
+索引服务中的漏洞可能允许跨站点脚本执行 (920685)|MS06-053| 警告|920685
+实际通用多播 (PGM) 中的漏洞可能允许远程执行代码 (919007)|MS06-052| 重要|919007
+Windows 内核中的漏洞可能导致远程执行代码 (917422)|MS06-051| 严重|917422
+Microsoft Windows 超链接对象库中的漏洞可能允许远程执行代码 (920670)|MS06-050| 重要|920670
+Windows 内核中的漏洞可能导致特权提升 (920958)|MS06-049| 重要|920958
+Microsoft Office 中的漏洞可能允许远程执行代码 (922968)|MS06-048| 严重|922968
+Microsoft Visual Basic for Applications 中的漏洞可能允许远程执行代码 (921645)|MS06-047| 严重|921645
+HTML 帮助中的漏洞可能允许远程执行代码 (922616)|MS06-046| 严重|922616
+Windows 资源管理器中的漏洞可能允许远程执行代码 (921398)|MS06-045| 重要|921398
+Microsoft 管理控制台中的漏洞可能允许远程执行代码 (917008)|MS06-044| 严重|917008
+Microsoft Windows 中的漏洞可能允许远程执行代码 (920214)|MS06-043| 严重|920214
+Internet Explorer 的累积性安全更新 (918899)|MS06-042| 严重|918899
+DNS 解析中的漏洞可能允许远程执行代码 (920683)|MS06-041| 严重|920683
+Server 服务中的漏洞可能允许远程执行代码 (921883)|MS06-040| 严重|921883
+Microsoft Office 筛选器中的漏洞可能允许远程执行代码 (915384)|MS06-039| 严重|915384
+Microsoft Office 中的漏洞可能允许远程执行代码 (917284)|MS06-038| 严重|917284
+Microsoft Excel 中的漏洞可能允许远程执行代码 (917285)|MS06-037| 严重|917285
+DHCP Client 服务中的漏洞可能允许远程执行代码 (914388)|MS06-036| 严重|914388
+Server 服务中的漏洞可能允许远程执行代码 (917159)|MS06-035| 严重|917159
+使用 Active Server Pages 的 Microsoft Internet 信息服务中的漏洞可能允许远程执行代码 (917537)|MS06-034| 重要|917537
+ASP.NET 中的漏洞可能允许信息泄露 (917283)|MS06-033| 重要|917283
+TCP/IP 中的漏洞可能允许远程执行代码 (917953)|MS06-032| 重要|917953
+RPC 相互身份验证中的漏洞可能允许欺骗 (917736)|MS06-031| 警告|917736
+服务器消息块中的漏洞可能允许特权提升 (914389)|MS06-030| 严重|914389
+运行 Outlook Web Access 的 Microsoft Exchange Server 中的漏洞可能允许脚本注入 (912442)|MS06-029| 重要|912442
+Microsoft PowerPoint 中的漏洞可能允许远程执行代码 (916768)|MS06-028| 严重|916768
+Microsoft Word 中的漏洞可能允许远程执行代码 (917336)|MS06-027| 严重|917336
+图形呈现引擎中的漏洞可能允许远程执行代码 (918547)|MS06-026| 严重|918547
+路由和远程访问中的漏洞可能允许远程执行代码 (911280)|MS06-025| 严重|911280
+Windows Media Player 中的漏洞可能允许远程执行代码 (917734)|MS06-024| 严重|917734
+Microsoft JScript 中的漏洞可能允许远程执行代码 (917344)|MS06-023| 严重|917344
+ART 图像呈现中的漏洞可能允许远程执行代码 (918439)|MS06-022| 严重|918439
+Internet Explorer 的累积性安全更新 (916281)|MS06-021| 严重|916281
+Adobe 的 Macromedia Flash Player 中的漏洞可能允许远程执行代码 (913433)|MS06-020| 严重|913433
+Microsoft Exchange 中的漏洞可能允许远程执行代码 (916803)|MS06-019| 严重|916803
+Microsoft 分布式事务处理协调器中的漏洞可能允许拒绝服务 (913580)|MS06-018| 警告|913580
+Microsoft Front Page Server Extensions 中的漏洞可能允许跨站点脚本 (917627)|MS06-017| 警告|917627
+Outlook Express 的累积性安全更新 (911567)|MS06-016| 重要|911567
+Windows 资源管理器中的漏洞可能允许远程执行代码 (908531)|MS06-015| 严重|908531
+Microsoft Data Access Components (MDAC) 功能中的漏洞可能允许执行代码 (911562)|MS06-014| 严重|911562
+Internet Explorer 的累积性安全更新 (912812)|MS06-013| 严重|912812
+Microsoft Office 中的漏洞可能允许远程执行代码 (905413)|MS06-012| 严重|905413
+许可的 Windows 服务 DACL 可能导致特权提升 (914798)|MS06-011| 重要|914798
+PowerPoint 2000 中的漏洞可能允许信息泄露 (889167)|MS06-010| 严重|889167
+朝鲜语输入法编辑器中的漏洞可能允许特权提升 (901190)|MS06-009| 重要|901190
+Web 客户端服务中的漏洞可能允许远程执行代码 (911927)|MS06-008| 重要|911927
+TCP/IP 中的漏洞可能允许拒绝服务 (913446)|MS06-007| 重要|913446
+用于非 Microsoft Internet 浏览器的 Windows Media Player 插件中的漏洞可能允许远程执行代码 (911564)|MS06-006| 重要|911564
+Windows Media Player 中的漏洞可能允许远程执行代码 (911565)|MS06-005| 严重|911565
+Internet Explorer 的累积性安全更新 (910620)|MS06-004| 严重|910620
+Microsoft Outlook 和 Microsoft Exchange 中的 TNEF 解码漏洞可能允许远程执行代码 (902412)|MS06-003| 严重|902412
+嵌入式 Web 字体中的漏洞可能允许远程执行代码 (908519)|MS06-002| 严重|908519
+图形呈现引擎中的漏洞可能允许远程执行代码 (912919)|MS06-001| 严重|912919
+Windows 内核中的漏洞可能允许特权提升 (908523)|MS05-055| 严重|908523
+Internet Explorer 的累积性安全更新 (905915)|MS05-054| 严重|905915
+图形呈现引擎中的漏洞可能允许执行代码 (896424)|MS05-053| 严重|896424
+Internet Explorer 的累积性安全更新 (896688)|MS05-052| 严重|896688
+MSDTC 和 COM+ 中的漏洞可能允许远程执行代码 (902400)|MS05-051| 严重|902400
+DirectShow 中的漏洞可能允许远程执行代码 (904706)|MS05-050| 严重|904706
+Windows Shell 中的漏洞可能允许远程执行代码 (900725)|MS05-049| 重要|900725
+Microsoft 协作数据对象中的漏洞可能允许远程执行代码 (907245)|MS05-048| 严重|907245
+即插即用中的漏洞可能允许远程执行代码和特权提升 (905749)|MS05-047| 重要|905749
+NetWare 客户端服务中的漏洞可能允许远程执行代码 (899589)|MS05-046| 重要|899589
+网络连接管理器中的漏洞可能允许拒绝服务 (905414)|MS05-045| 警告|905414
+Windows FTP 客户端中的漏洞可能允许篡改文件传输位置 (905495)|MS05-044| 警告|905495
+Print Spooler 服务中的漏洞可能允许远程执行代码 (896423)|MS05-043| 严重|896423
+Kerberos 中的漏洞可能允许拒绝服务、信息泄露和欺骗 (899587)|MS05-042| 警告|899587
+远程桌面协议中的漏洞可能允许拒绝服务 (899591)|MS05-041| 警告|899591
+Telephony 服务中的漏洞可能允许远程执行代码 (893756)|MS05-040| 重要|893756
+即插即用中的漏洞可能允许远程执行代码和特权提升 (899588)|MS05-039| 严重|899588
+Internet Explorer 的累积性安全更新 (896727)|MS05-038| 严重|896727
+JView 事件探查器中的漏洞可能允许远程执行代码 (903235)|MS05-037| 严重|903235
+Microsoft 颜色管理模块中的漏洞可能允许远程执行代码 (901214)|MS05-036| 严重|901214
+Microsoft Word 中的漏洞可能允许远程执行代码 (903672)|MS05-035| 严重|903672
+ISA Server 2000 的累积性安全更新 (899753)|MS05-034| 警告|899753
+Telnet 客户端中的漏洞可能导致信息泄露 (896428)|MS05-033| 警告|896428
+Microsoft 代理程序中的漏洞可能允许欺骗（890046）|MS05-032| 警告|890046
+Step-by-Step Interactive Training 中的漏洞可能允许远程执行代码 (898458)|MS05-031| 重要|898458
+Outlook Express 中的漏洞可能允许远程执行代码（897715）|MS05-030| 重要|897715
+Outlook Web Access for Exchange Server 5.5 中的漏洞可能允许跨站点脚本执行攻击  (895179)|MS05-029| 重要|895179
+Web 客户端服务中的漏洞可能允许远程执行代码 (896426)|MS05-028| 重要|896426
+服务器消息块中的漏洞可能允许远程执行代码 (896422)|MS05-027| 严重|896422
+HTML 帮助中的漏洞可能允许远程执行代码 (896358)|MS05-026| 严重|896358
+Internet Explorer 的累积性安全更新 (883939)|MS05-025| 严重|883939
+Web 视图中的漏洞可能允许远程执行代码 (894320)|MS05-024| 重要|894320
+Microsoft Word 中的漏洞可能导致远程执行代码 (890169)|MS05-023| 严重|890169
+MSN Messenger 中的漏洞可能会导致远程代码执行 (896597)|MS05-022| 严重|896597
+Exchange Server 中的漏洞可能允许远程执行代码 (894549)|MS05-021| 严重|894549
+Internet Explorer 的累积性安全更新 (890923)|MS05-020| 严重|890923
+TCP/IP 中的漏洞可能允许远程执行代码和拒绝服务攻击 (893066)|MS05-019| 严重|893066
+Windows 内核的漏洞可能允许特权提升和拒绝服务 (890859)|MS05-018| 重要|890859
+消息队列服务中的漏洞可能允许执行代码 (892944)|MS05-017| 重要|892944
+Windows Shell 中的漏洞可能允许远程执行代码 (893086)|MS05-016| 重要|893086
+超级链接对象库中的漏洞可能允许远程执行代码 (888113)|MS05-015| 严重|888113
+Internet Explorer 的累积性安全更新 (867282)|MS05-014| 严重|867282
+DHTML 编辑组件 ActiveX 控件中的安全漏洞可能允许执行代码 (891781)|MS05-013| 严重|891781
+OLE 和 COM 中的漏洞可能允许远程执行代码 (873333)|MS05-012| 严重|873333
+服务器消息块中的漏洞可能允许远程执行代码 (885250)|MS05-011| 严重|885250
+许可证记录服务中的漏洞可能允许执行代码 (885834)|MS05-010| 严重|885834
+PNG 处理中的漏洞可能允许远程执行代码 (890261)|MS05-009| 严重|890261
+Windows Shell 中的漏洞可能允许远程执行代码 (890047)|MS05-008| 重要|890047
+Windows 中的漏洞可能导致信息泄露 (888302)|MS05-007| 重要|888302
+Windows SharePoint Services 和 SharePoint Team Services 中的漏洞可能允许跨站点脚本和欺骗攻击 (887981)|MS05-006| 警告|887981
+Office 中的漏洞可能允许远程代码执行|MS05-005| 严重|873352
+ASP.NET 路径验证漏洞 (887219)|MS05-004| 重要|887219
+索引服务中的漏洞可能允许远程执行代码 (871250)|MS05-003| 重要|871250
+光标和图标格式处理中的漏洞可能允许远程执行代码 (891711)|MS05-002| 严重|891711
+HTML 帮助中的漏洞可能允许执行代码 (890175)|MS05-001| 严重|890175
+WINS 中的漏洞可能允许远程执行代码 (870763)|MS04-045| 重要|870763
+Windows 内核和 LSASS 中的漏洞可能允许特权提升 (885835)。|MS04-044| 重要|885835
+超级终端中的漏洞可能允许执行代码 (873339)|MS04-043| 重要|873339
+DHCP 中的漏洞可能允许远程执行代码和拒绝服务攻击 (885249)|MS04-042| 重要|885249
+WordPad 中的漏洞可能允许执行代码 (885836)|MS04-041| 重要|885836
+Internet Explorer 的累积性安全更新 (889293)|MS04-040| 严重|889293
+ISA Server 2000 和 Proxy Server 2.0 中的安全漏洞可能给 Internet 内容欺骗以可乘之机 (888258)|MS04-039| 重要|888258
+Internet Explorer 的累积性安全更新 (834707)|MS04-038| 严重|834707
+Windows Shell 中的漏洞可能允许执行远程代码 (841356)|MS04-037| 严重|841356
+NNTP 中的漏洞可能允许执行代码 (883935)|MS04-036| 严重|883935
+SMTP 中的安全漏洞可能允许执行远程代码 (885881)|MS04-035| 严重|885881
+压缩文件夹中的漏洞允许执行代码 (873376)|MS04-034| 严重|873376
+Vulnerability in Microsoft Excel Could Allow Remote Code Execution|MS04-033| 严重|886836
+Microsoft Windows 的安全更新 (840987)|MS04-032| 严重|840987
+NetDDE 中的漏洞可能允许执行远程代码 (841533)|MS04-031| 重要|841533
+WebDAV XML Message Handler 中的公告标题漏洞可能导致“拒绝服务”攻击 (824151)|MS04-030| 重要|824151
+RPC 运行时库中的漏洞可能允许信息泄露和拒绝服务 (873350)|MS04-029| 重要|873350
+JPEG 处理时 (GDI+) 的缓冲区溢出可能允许执行代码 (833987)|MS04-028| 严重|833987
+WordPerfect 转换器中的漏洞可能允许执行代码 (884933)|MS04-027| 重要|884933
+Exchange Server 5.5 Outlook Web Access 中的漏洞可能允许跨站点脚本和欺骗攻击 (842463)|MS04-026| 警告|842436
+Internet Explorer 的累积性安全更新 (867801)|MS04-025| 严重|867801
+Windows Shell 中的漏洞可能允许远程执行代码 (839645)|MS04-024| 重要|839645
+HTML 帮助中的漏洞可能允许执行代码 (840315)|MS04-023| 严重|840315
+任务计划程序中的漏洞可能允许执行代码 (841873)|MS04-022| 严重|841873
+IIS 4.0 安全更新 (841373)|MS04-021| 重要|841373
+POSIX 中的漏洞可能允许执行代码 (841872)|MS04-020| 重要|841872
+工具管理器中的漏洞可能允许执行代码 (842526)|MS04-019| 重要|842526
+Outlook Express 的累积性安全更新 (823353)|MS04-018| 警告|823353
+Crystal Reports Web 查看器中的漏洞可能允许信息泄露和拒绝服务 (842689)|MS04-017| 警告|842689
+DirectPlay 中的漏洞可能允许拒绝服务 (839643)|MS04-016| 警告|839643
+帮助和支持中心中的安全漏洞可能会允许远程执行代码 (840374)|MS04-015| 重要|840374
+Microsoft Jet数据库引擎中的漏洞可能导致代码被执行 (837001)|MS04-014| 重要|837001
+Outlook Express 的累积安全更新 (837009)|MS04-013| 严重|837009
+Microsoft RPC/DCOM 的累积性更新 (828741)|MS04-012| 严重|828741
+Security Update for Microsoft Windows|MS04-011| 严重|835732
+MSN Messenger 中的漏洞可能导致信息泄露 (838512)|MS04-010| 警告|838512
+Internet Explorer 的累积性安全更新|MS13-021| 严重|2809289
+OLE 自动化中的漏洞可能允许远程执行代码|MS13-020| 严重|2802968
+Windows 客户端/服务器运行时子系统 (CSRSS) 中的漏洞可能允许特权提升|MS13-019| 重要|2790113
+Windows TCP/IP 中的漏洞可能允许拒绝服务|MS13-018| 重要|2790655
+Windows 内核中的漏洞可能允许特权提升|MS13-017| 重要|2799494
+Windows 内核模式驱动程序中的漏洞可能允许特权提升|MS13-016| 重要|2778344
+.NET Framework 中的漏洞可能允许特权提升|MS13-015| 重要|2800277
+NFS 服务器中的漏洞可能允许拒绝服务|MS13-014| 重要|2790978
+FAST Search Server 2010 for SharePoint 分析中的漏洞可能允许执行远程代码|MS13-013| 重要|2784242
+Microsoft Exchange Server 中的漏洞可能允许远程执行代码|MS13-012| 严重|2809279
+媒体解压缩中的漏洞可能允许远程执行代码|MS13-011| 严重|2780091
+矢量标记语言中的漏洞可能允许远程执行代码|MS13-010| 严重|2797052
+Internet Explorer 的累积性安全更新|MS13-009| 严重|2792100
+Internet Explorer 安全更新|MS13-008| 严重|2799329
+开放数据协议中的漏洞可能允许拒绝服务|MS13-007| 重要|2769327
+Microsoft Windows 中的漏洞可能允许绕过安全功能|MS13-006| 重要|2785220
+Windows 内核模式驱动程序中的漏洞可能允许特权提升|MS13-005| 重要|2778930
+.NET Framework 中的漏洞可能允许特权提升|MS13-004| 重要|2769324
+System Center Operations Manager 中的漏洞可能允许特权提升|MS13-003| 重要|2748552
+Microsoft XML Core Services 中的漏洞可能允许远程执行代码|MS13-002| 严重|2756145
+Windows Print Spooler 组件中的漏洞可能允许远程执行代码|MS13-001| 严重|2769369
+IP-HTTPS 组件中的漏洞可能允许安全功能绕过|MS12-083| 重要|2765809
+DirectPlay 中的漏洞可能允许远程执行代码|MS12-082| 重要|2770660
+Windows 文件处理组件中的漏洞可能允许远程执行代码|MS12-081| 严重|2758857
+Microsoft Exchange Server 中的漏洞可能允许远程执行代码|MS12-080| 严重|2784126
+Microsoft Outlook 中的漏洞可能允许代码执行 (828040)|MS04-009| 严重|828040
+Windows Media Services 中的漏洞可能会允许拒绝服务 (832359)|MS04-008| 警告|832359
+ASN.1 Vulnerability Could Allow Code Execution|MS04-007| 严重|828028
+Vulnerability in the Windows Internet Naming Service (WINS) Could Allow Code Execution|MS04-006| 重要|830352
+Vulnerability in Virtual PC for Mac Could Allow Privilege Elevation|MS04-005| 重要|835150
+Cumulative Security Update for Internet Explorer|MS04-004| 严重|832894
+Buffer Overrun in MDAC Function Could Allow Code Execution|MS04-003| 重要|832483
+Vulnerability in Exchange Server 2003 Could Lead to Privilege Escalation|MS04-002| 警告|832759
+Vulnerability in Microsoft Internet Security and Acceleration Server 2000 H.323 Filter Could Allow Remote Code Execution|MS04-001| 严重|816458
+Buffer Overrun in Microsoft FrontPage Server Extensions Could Allow Code Execution|MS03-051| 严重|813360
+Vulnerability in Microsoft Word and Microsoft Excel Could Allow Arbitrary Code to Run|MS03-050| 重要|831527
+Buffer Overrun in the Workstation Service Could Allow Code Execution|MS03-049| 严重|828749
+Cumulative Security Update for Internet Explorer|MS03-048| 严重|824145
+Vulnerability in Exchange Server 5.5 Outlook Web Access Could Allow Cross-Site Scripting Attack|MS03-047| 警告|828489
+Vulnerability in Exchange Server Could Allow Arbitrary Code Execution|MS03-046| 严重|829436
+Buffer Overrun in the ListBox and in the ComboBox Control Could Allow Code Execution|MS03-045| 重要|824141
+Buffer Overrun in Windows Help and Support Center Could Lead to System Compromise|MS03-044| 严重|825119
+Buffer Overrun in Messenger Service Could Allow Code Execution|MS03-043| 严重|828035
+Buffer Overflow in Windows Troubleshooter ActiveX Control Could Allow Code Execution|MS03-042| 严重|826232
+rability in Authenticode Verification Could Allow Remote Code Execution|MS03-041| 严重|823182
+Cumulative Patch for Internet Explorer|MS03-040| 严重|828750
+Buffer Overrun In RPCSS Service Could Allow Code Execution|MS03-039| 严重|824146
+Unchecked buffer in Microsoft Access Snapshot Viewer Could Allow Code Execution|MS03-038| 警告|827104
+Flaw in Visual Basic for Applications Could Allow Arbitrary Code Execution|MS03-037| 严重|822715
+Buffer Overrun in WordPerfect Converter Could Allow Code Execution|MS03-036| 重要|827103
+Microsoft Word 中的漏洞可能允许远程执行代码|MS12-079| 严重|2780642
+Windows 内核模式驱动程序中的漏洞可能允许远程执行代码|MS12-078| 严重|2783534
+Internet Explorer 的累积性安全更新|MS12-077| 严重|2761465
+Microsoft Excel 中的漏洞可能允许远程执行代码|MS12-076| 重要|2720184
+Windows 内核模式驱动程序中的漏洞可能允许远程执行代码|MS12-075| 严重|2761226
+.NET Framework 中的漏洞可能允许远程执行代码|MS12-074| 严重|2745030
+Microsoft Internet Information Services (IIS) 中的漏洞可能允许信息泄露|MS12-073| 警告|2733829
+Windows Shell 中的漏洞可能允许远程执行代码|MS12-072| 严重|2727528
+Internet Explorer 的累积性安全更新|MS12-071| 严重|2761451
+SQL Server 中的漏洞可能允许特权提升|MS12-070| 重要|2754849
+Kerberos 中的漏洞可能允许拒绝服务|MS12-069| 重要|2743555
+Windows 内核中的漏洞可能允许特权提升|MS12-068| 重要|2724197
+FAST Search Server 2010 for SharePoint 分析中的漏洞可能允许执行远程代码|MS12-067| 重要|2742321
+HTML 清理组件中的漏洞可能允许特权提升|MS12-066| 重要|2741517
+Microsoft Works 中的漏洞可能允许远程执行代码|MS12-065| 重要|2754670
+Microsoft Word 中的漏洞可能允许远程执行代码|MS12-064| 严重|2742319
+Microsoft XML Core Services 中的漏洞可能允许远程执行代码|MS12-043| 严重|2722479
+Internet Explorer 的累积性安全更新|MS12-063| 严重|2744842
+System Center Configuration Manager 中的漏洞可能允许特权提升|MS12-062| 重要|2741528
+Visual Studio Team Foundation Server 中的漏洞可能允许特权提升|MS12-061| 重要|2719584
+Winodws 常用控件中的漏洞可能允许远程执行代码|MS12-060| 严重|2720573
+Microsoft Visio 中的漏洞可能允许远程执行代码|MS12-059| 重要|2733918
+Microsoft Exchange Server WebReady Document Viewing 中的漏洞可能允许远程执行代码|MS12-058| 严重|2740358
+Microsoft Office 中的漏洞可能允许远程执行代码|MS12-057| 重要|2731879
+JScript 和 VBScript 引擎中的漏洞可能允许远程执行代码|MS12-056| 重要|2706045
+Windows 内核模式驱动程序中的漏洞可能允许特权提升|MS12-055| 重要|2731847
+Windows 网络组件中的漏洞可能允许远程执行代码|MS12-054| 严重|2733594
+远程桌面中的漏洞可能允许远程执行代码|MS12-053| 严重|2723135
+Internet Explorer 的累积性安全更新|MS12-052| 严重|2722913
+Microsoft Office for Mac 中的漏洞可能允许特权提升|MS12-051| 重要|2721015
+SharePoint 中的漏洞可能允许特权提升|MS12-050| 重要|2695502
+TLS 中的漏洞可能允许信息泄露|MS12-049| 重要|2655992
+Windows Shell 中的漏洞可能允许远程执行代码|MS12-048| 重要|2691442
+Windows 内核模式驱动程序中的漏洞可能允许特权提升|MS12-047| 重要|2718523
+Visual Basic for Applications 中的漏洞可能允许远程执行代码|MS12-046| 重要|2707960
+Microsoft Data Access Components 中的漏洞可能允许远程执行代码|MS12-045| 严重|2698365
+Internet Explorer 的累积性安全更新|MS12-044| 严重|2719177
+Windows 内核中的漏洞可能允许特权提升|MS12-042| 重要|2711167
+Windows 内核模式驱动程序中的漏洞可能允许特权提升|MS12-041| 重要|2709162
+Microsoft Dynamics AX Enterprise Portal 中的漏洞可能允许特权提升|MS12-040| 重要|2709100
+Lync 中的漏洞可能允许远程执行代码|MS12-039| 重要|2707956
+.NET Framework 中的漏洞可能允许远程执行代码|MS12-038| 严重|2706726
+Internet Explorer 的累积性安全更新|MS12-037| 严重|2699988
+远程桌面中的漏洞可能允许远程执行代码|MS12-036| 严重|2685939
+.NET Framework 中的漏洞可能允许远程执行代码|MS12-035| 严重|2693777
+Microsoft Office、Windows、.NET Framework 和 Silverlight 的组合安全更新|MS12-034| 严重|2681578
+Windows 分区管理器中的漏洞可能允许特权提升|MS12-033| 重要|2690533
+TCP/IP 中的漏洞可能允许特权提升|MS12-032| 重要|2688338
+Microsoft Visio Viewer 2010 中的漏洞可能允许远程执行代码|MS12-031| 重要|2597981
+Microsoft Office 中的漏洞可能允许远程执行代码|MS12-030| 重要|2663830
+Microsoft Word 中的漏洞可能允许远程执行代码|MS12-029| 严重|2680352
+Microsoft Office 中的漏洞可能允许远程执行代码|MS12-028| 重要|2639185
+Winodws 常用控件中的漏洞可能允许远程执行代码|MS12-027| 严重|2664258
+Forefront Unified Access Gateway (UAG) 中的漏洞可能允许信息泄露|MS12-026| 重要|2663860
+.NET Framework 中的漏洞可能允许远程执行代码|MS12-025| 严重|2671605
+Windows 中的漏洞可能允许远程执行代码|MS12-024| 严重|2653956
+Internet Explorer 的累积性安全更新|MS12-023| 严重|2675157
+Expression Design 中的漏洞可能允许远程执行代码|MS12-022| 重要|2651018
+Visual Studio 中的漏洞可能允许特权提升|MS12-021| 重要|2651019
+远程桌面中的漏洞可能允许远程执行代码|MS12-020| 严重|2671387
+DirectWrite 中的漏洞可能允许拒绝服务|MS12-019| 警告|2665364
+Windows 内核模式驱动程序中的漏洞可能允许特权提升|MS12-018| 重要|2641653
+DNS 服务器中的漏洞可能允许拒绝服务|MS12-017| 重要|2647170
+.NET Framework 和 Microsoft Silverlight 中的漏洞可能允许远程执行代码|MS12-016| 严重|2651026
+Microsoft Visio Viewer 2010 中的漏洞可能允许远程执行代码|MS12-015| 重要|2663510
+Indeo 编解码器中的漏洞可能允许远程执行代码|MS12-014| 重要|2661637
+C 运行时库中的漏洞可能允许远程执行代码|MS12-013| 严重|2654428
+颜色控制面板中的漏洞可能允许远程执行代码|MS12-012| 重要|2643719
+Microsoft SharePoint 中的漏洞可能允许特权提升|MS12-011| 重要|2663841
+Internet Explorer 的累积性安全更新|MS12-010| 严重|2647516
+辅助功能驱动程序中的漏洞可能允许特权提升|MS12-009| 重要|2645640
+Windows 内核模式驱动程序中的漏洞可能允许远程执行代码|MS12-008| 严重|2660465
+AntiXSS 库中的漏洞可能允许信息泄露|MS12-007| 重要|2607664
+SSL/TLS 中的漏洞可能允许信息泄露|MS12-006| 重要|2643584
+Microsoft Windows 中的漏洞可能允许远程执行代码|MS12-005| 重要|2584146
+Windows Media 中的漏洞可能允许远程执行代码|MS12-004| 严重|2636391
+Windows 客户端/服务器运行时子系统中的漏洞可能允许特权提升|MS12-003| 重要|2646524
+Windows 对象包装程序中的漏洞可能允许远程执行代码|MS12-002| 重要|2603381
+Windows 内核中的漏洞可能允许绕过安全功能|MS12-001| 重要|2644615
+.NET Framework 中的漏洞可能允许特权提升|MS11-100| 严重|2638420
+Internet Explorer 的累积性安全更新|MS11-099| 重要|2618444
+Windows 内核中的漏洞可能允许特权提升|MS11-098| 重要|2633171
+Windows 客户端/服务器运行时子系统中的漏洞可能允许特权提升|MS11-097| 重要|2620712
+Microsoft Excel 中的漏洞可能允许远程执行代码|MS11-096| 重要|2640241
+Active Directory 中的漏洞可能允许远程执行代码|MS11-095| 重要|2640045
+Microsoft PowerPoint 中的漏洞可能允许远程执行代码|MS11-094| 重要|2639142
+OLE 中的漏洞可能允许远程执行代码|MS11-093| 重要|2624667
+Windows Media 中的資訊安全風險可能會允許遠端執行程式碼|MS11-092| 严重|2648048
+Microsoft Publisher 中的漏洞可能允许远程执行代码|MS11-091| 重要|2607702
+ActiveX Kill Bit 的累积性安全更新|MS11-090| 严重|2618451
+Microsoft Office 中的漏洞可能允许远程执行代码|MS11-089| 重要|2590602
+Microsoft Office IME（中文）中的漏洞可能允许特权提升|MS11-088| 重要|2652016
+Windows 内核模式驱动程序中的漏洞可能允许远程执行代码|MS11-087| 严重|2639417
+Active Directory 中的漏洞可能允许特权提升|MS11-086| 重要|2630837
+Windows Mail 和 Windows 会议室中的漏洞可能允许远程执行代码|MS11-085| 重要|2620704
+Windows 内核模式驱动程序中的漏洞可能允许拒绝服务|MS11-084| 警告|2617657
+TCP/IP 中的漏洞可能允许远程执行代码|MS11-083| 严重|2588516
+主机集成服务器中的漏洞可能允许拒绝服务|MS11-082| 重要|2607670
+Internet Explorer 的累积性安全更新|MS11-081| 严重|2586448
+辅助功能驱动程序中的漏洞可能允许特权提升|MS11-080| 重要|2592799
+Microsoft Forefront Unified Access Gateway 中的漏洞可能导致远程执行代码|MS11-079| 重要|2544641
+.NET Framework 和 Microsoft Silverlight 中的漏洞可能允许远程执行代码|MS11-078| 严重|2604930
+Windows 内核模式驱动程序中的漏洞可能允许远程执行代码|MS11-077| 重要|2567053
+Windows Media Center 中的漏洞可能允许远程执行代码|MS11-076| 重要|2604926
+Microsoft Active Accessibility 中的漏洞可能允许远程执行代码|MS11-075| 重要|2623699
+Microsoft SharePoint 中的漏洞可能允许特权提升|MS11-074| 重要|2451858
+Microsoft Office 中的漏洞可能允许远程执行代码|MS11-073| 重要|2587634
+Microsoft Excel 中的漏洞可能允许远程执行代码|MS11-072| 重要|2587505
+Windows 组件中的漏洞可能允许远程执行代码|MS11-071| 重要|2570947
+WINS 中的漏洞可能允许特权提升|MS11-070| 重要|2571621
+.NET Framework 中的漏洞可能允许信息泄露 (2567951)|MS11-069| 警告|2567951
+Windows 内核中的漏洞可能允许拒绝服务 (2556532)|MS11-068| 警告|2556532
+Microsoft Report Viewer 中的漏洞可能允许信息泄露 (2578230)|MS11-067| 重要|2578230
+Microsoft 图表控件中的漏洞可能导致信息泄露 (2567943)|MS11-066| 重要|2567943
+远程桌面协议中的漏洞可能允许拒绝服务 (2570222)|MS11-065| 重要|2570222
+TCP/IP 堆栈中的漏洞可能允许拒绝服务 (2563894)|MS11-064| 重要|2563894
+Windows 客户端/服务器运行时子系统中的漏洞可能允许特权提升 (2567680)|MS11-063| 重要|2567680
+远程访问服务 NDISTAPI 驱动程序中的漏洞可能允许特权提升 (2566454)|MS11-062| 重要|2566454
+远程桌面 Web 访问中的漏洞可能允许特权提升 (2546250)|MS11-061| 重要|2546250
+Microsoft Visio 中的漏洞可能允许远程执行代码 (2560978)|MS11-060| 重要|2560978
+Data Access Components 中的漏洞可能允许远程执行代码 (2560656)|MS11-059| 重要|2560656
+DNS 服务器中的漏洞可能允许远程执行代码|MS11-058| 严重|2562485
+Internet Explorer 累积性安全更新 (2559049)|MS11-057| 严重|2559049
+Windows 客户端/服务器运行时子系统中的漏洞可能允许特权提升 (2507938)|MS11-056| 重要|2507938
+Microsoft Visio 中的漏洞可能允许远程执行代码 (2560847)|MS11-055| 重要|2560847
+Windows 内核模式驱动程序中的漏洞可能允许特权提升 (2555917)|MS11-054| 重要|2555917
+Bluetooth 堆栈中的漏洞可能允许远程执行代码 (2566220)|MS11-053| 严重|2566220
+矢量标记语言中的漏洞可能允许远程执行代码 (2544521)|MS11-052| 严重|2544521
+Active Directory 证书服务 Web 注册中的漏洞可能允许特权提升 (2518295)|MS11-051| 重要|2518295
+Internet Explorer 的累积性安全更新 (2530548)|MS11-050| 严重|2530548
+Microsoft XML 编辑器中的漏洞可能允许信息泄露|MS11-049| 重要|2543893
+SMB 服务器中的漏洞可能允许拒绝服务 (2536275)|MS11-048| 重要|2536275
+Hyper-V 中的漏洞可能允许拒绝服务 (2525835)|MS11-047| 重要|2525835
+辅助功能驱动程序中的漏洞可能允许特权提升 (2503665)|MS11-046| 重要|2503665
+Microsoft Excel 中的漏洞可能允许远程执行代码 (2537146)|MS11-045| 重要|2537146
+.NET Framework 中的漏洞可能允许远程执行代码 (2538814)|MS11-044| 严重|2538814
+SMB 客户端中的漏洞可能允许远程执行代码 (2536276)|MS11-043| 严重|2536276
+分布式文件系统中的漏洞可能允许远程执行代码 (2535512)|MS11-042| 严重|2535512
+Windows 内核模式驱动程序中的漏洞可能允许远程执行代码 (2525694)|MS11-041| 严重|2525694
+Threat Management Gateway 防火墙客户端中的漏洞可能允许远程执行代码 (2520426)|MS11-040| 严重|2520426
+.NET Framework 和 Microsoft Silverlight 中的漏洞可能允许远程执行代码 (2514842)|MS11-039| 严重|2514842
+OLE 自动化中的漏洞可能允许远程执行代码 (2476490)|MS11-038| 严重|2476490
+MHTML 中的漏洞可能允许信息泄露|MS11-037| 重要|2544893
+Microsoft PowerPoint 中的漏洞可能允许远程执行代码 (2545814)|MS11-036| 重要|2545814
+WINS 中的漏洞可能允许远程执行代码 (2524426)|MS11-035| 严重|2524426
+Windows 内核模式驱动程序中的漏洞可能允许特权提升 (2506223)|MS11-034| 重要|2506223
+写字板文本转换器中的漏洞可能允许远程执行代码 (2485663)|MS11-033| 重要|2485633
+OpenType 压缩字体格式 (CFF) 驱动程序中的漏洞可能允许远程执行代码 (2507618)|MS11-032| 严重|2507618
+JScript 和 VBScript 脚本引擎中的漏洞可能允许远程执行代码 (2514666)|MS11-031| 严重|2514666
+DNS 解析中的漏洞可能允许远程执行代码|MS11-030| 严重|2509553
+GDI+ 中的漏洞可能允许远程执行代码 (2489979)|MS11-029| 严重|2489979
+.NET Framework 中的漏洞可能允许远程执行代码 (2484015)|MS11-028| 严重|2484015
+ActiveX Kill Bit 的累积性安全更新 (2508272)|MS11-027| 严重|2508272
+MHTML 中的漏洞可能允许信息泄露 (2503658)|MS11-026| 重要|2503658
+Microsoft 基础类 (MFC) 库中的漏洞可能允许远程执行代码|MS11-025| 重要|2500212
+Windows 传真封面编辑器中的漏洞可能允许远程执行代码 (2527308)|MS11-024| 重要|2527308
+Microsoft Office 中的漏洞可能允许远程执行代码 (2489293)|MS11-023| 重要|2489293
+Microsoft PowerPoint 中的漏洞可能允许远程执行代码 (2489283)|MS11-022| 重要|2489283
+Microsoft Excel 中的漏洞可能允许远程执行代码 (2489279)|MS11-021| 重要|2489283
+SMB 服务器中的漏洞可能允许远程执行代码 (2508429)|MS11-020| 严重|2508429
+SMB 客户端中的漏洞可能允许远程执行代码 (2511455)|MS11-019| 严重|2511455
+Internet Explorer 的累积性安全更新 (2497640)|MS11-018| 严重|2497640
+远程桌面客户端中的漏洞可能允许远程执行代码 (2508062)|MS11-017| 重要|2508062
+Microsoft Groove 中的漏洞可能允许远程执行代码 (2494047)|MS11-016| 重要|2494047
+Windows Media 中的漏洞可能允许远程执行代码 (2510030)|MS11-015| 严重|2510030
+本地安全机构子系统服务中的漏洞可能允许本地特权提升 (2478960)|MS11-014| 重要|2478960
+Kerberos 中的漏洞可能允许特权提升 (2496930)|MS11-013| 重要|2496930
+Windows 内核模式驱动程序中的漏洞可能允许特权提升 (2479628)|MS11-012| 重要|2479628
+Windows 内核中的漏洞可能允许特权提升 (2393802)|MS11-011| 重要|2393802
+Windows 客户端/服务器运行时子系统中的漏洞可能允许特权提升 (2476687)|MS11-010| 重要|2476687
+JScript 和 VBScript 脚本引擎中的漏洞可能允许信息泄露|MS11-009| 重要|2475792
+Microsoft Visio 中的漏洞可能允许远程执行代码 (2451879)|MS11-008| 重要|2451879
+OpenType Compact 字体格式 (CFF) 驱动程序中的漏洞可能允许远程代码执行 (2485376)|MS11-007| 严重|2485376
+Windows Shell 图形处理中的漏洞可能允许远程执行代码 (2483185)|MS11-006| 严重|2483185
+Active Directory 中的漏洞可能允许拒绝服务 (2478953)|MS11-005| 重要|2478953

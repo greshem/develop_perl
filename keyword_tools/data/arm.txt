@@ -1,0 +1,54 @@
+指令  意义  最早的 CPU / 注释  
+ADC  带进位的加法  -   
+ADD  加法  -   
+AND  逻辑与  -   
+ASL  算术左移  这是一个选项，不是指令   
+ASR  算术右移  这是一个选项，不是指令   
+B  分支  -   
+BIC  位清除  -   
+BL  带连接的分支  -   
+BX  分支到 Thumb 代码  StrongARM SA1110 ?  
+CDP  协处理器数据操作  -   
+CMN  比较取负的值  -   
+CMP  比较值  -   
+EOR  异或两个值  -   
+LDC  装载内存到协处理器  -   
+LDM  装载多个寄存器  -   
+LDR  装载寄存器  -   
+LDRB  装载字节到寄存器  -   
+LDRH  装载半字到寄存器  StrongARM  
+LDRSB  装载有符号字节到寄存器  StrongARM   
+LDRSH  装载有符号半字到寄存器  StrongARM    
+LSL  逻辑左移  这是一个选项，不是指令  
+LSR  逻辑右移  这是一个选项，不是指令  
+MCR  协处理器寄存器传送  -  
+MLA  带累加的乘法  -   
+MOV  传送值/寄存器到一个寄存器  -   
+MRC  协处理器寄存器传送  -   
+MRS  传送状态标志到一个寄存器  ARM 6   
+MSR  传送一个寄存器的内容到状态标志  ARM 6   
+MUL  乘法  -   
+MVN  传送取负的(值)  -   
+ORR  逻辑或  -   
+ROR  循环右移  这是一个选项，不是指令    
+RRX  带扩展的循环右移  这是一个选项，不是指令    
+RSB  反向减法  -    
+RSC  带借位的反向减法  -    
+SBC  带借位的减法  -    
+SMLAL  带累加的有符号长(64 位)乘法  StrongARM    
+SMULL  有符号长(64 位)乘法  StrongARM    
+STC  协处理器数据传送  -    
+STM  存储多个寄存器  -    
+STR  存储一个寄存器  -    
+STRB  存储一个字节(从一个寄存器)  -    
+STRH  存储一个半字(从一个寄存器)  StrongARM    
+STRSB  存储一个有符号字节(从一个寄存器)  StrongARM    
+STRSH  存储一个有符号半字(从一个寄存器)  StrongARM    
+SUB  减法  -    
+SWI  导致一个软件中断  -    
+SWP  交换寄存器与内存  ARM 3    
+TEQ  测试等价(概念上的 EOR)  -    
+TST  测试并屏蔽(概念上的 AND)  -    
+UMLAL  带累加的无符号长(64 位)乘法  StrongARM    
+UMULL  无符号长(64 位)乘法  StrongARM    
+STMFD           SP!, {R4-R8,LR} ; Store Block to Memory #保存寄存器块 到内存. 

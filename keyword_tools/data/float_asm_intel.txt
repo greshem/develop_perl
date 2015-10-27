@@ -1,0 +1,73 @@
+浮点运算指令集  收藏
+一、控制指令(带9B的控制指令前缀F变为FN时浮点不检查，机器码去掉9B)
+FINIT 初始化浮点部件 机器码 9B DB E3
+FCLEX	清除异常 机器码 9B DB E2
+FDISI 浮点检查禁止中断 机器码 9B DB E1
+FENI 浮点检查禁止中断二 机器码 9B DB E0
+WAIT 同步CPU和FPU 机器码 9B
+FWAIT 同步CPU和FPU 机器码 D9 D0
+FNOP 无操作 机器码 DA E9
+FXCH 交换ST(0)和ST(1) 机器码 D9 C9
+FXCH ST(i) 交换ST(0)和ST(i) 机器码 D9 C1iii
+FSTSW ax 状态字到ax 机器码 9B DF E0
+FSTSW word ptr mem 状态字到mem 机器码 9B DD mm111mmm
+FLDCW word ptr mem mem到状态字 机器码 D9 mm101mmm
+FSTCW word ptr mem 控制字到mem 机器码 9B D9 mm111mmm
+FLDENV word ptr mem mem到全环境 机器码 D9 mm100mmm
+FSTENV word ptr mem 全环境到mem 机器码 9B D9 mm110mmm
+FRSTOR word ptr mem mem到FPU状态 机器码 DD mm100mmm
+FSAVE word ptr mem FPU状态到mem 机器码 9B DD mm110mmm
+FFREE ST(i) 标志ST(i)未使用 机器码 DD C0iii
+FDECSTP 减少栈指针1->0 2->1 机器码 D9 F6
+FINCSTP 增加栈指针0->1 1->2 机器码 D9 F7
+FSETPM 浮点设置保护 机器码 DB E4
+二、数据传送指令
+FLDZ 将0.0装入ST(0) 机器码 D9 EE
+FLD1 将1.0装入ST(0) 机器码 D9 E8
+FLDPI 将π装入ST(0) 机器码 D9 EB
+FLDL2T 将ln10/ln2装入ST(0) 机器码 D9 E9
+FLDL2E 将1/ln2装入ST(0) 机器码 D9 EA
+FLDLG2 将ln2/ln10装入ST(0) 机器码 D9 EC
+FLDLN2 将ln2装入ST(0) 机器码 D9 ED
+FLD real4 ptr mem 装入mem的单精度浮点数 机器码 D9 mm000mmm
+FLD real8 ptr mem 装入mem的双精度浮点数 机器码 DD mm000mmm
+FLD real10 ptr mem 装入mem的十字节浮点数 机器码 DB mm101mmm
+FILD word ptr mem 装入mem的二字节整数 机器码 DF mm000mmm
+FILD dword ptr mem 装入mem的四字节整数 机器码 DB mm000mmm
+FILD qword ptr mem 装入mem的八字节整数 机器码 DF mm101mmm
+FBLD tbyte ptr mem 装入mem的十字节BCD数 机器码 DF mm100mmm
+FST real4 ptr mem 保存单精度浮点数到mem 机器码 D9 mm010mmm
+FST real8 ptr mem 保存双精度浮点数到mem 机器码 DD mm010mmm
+FIST word ptr mem 保存二字节整数到mem 机器码 DF mm010mmm
+FIST dword ptr mem 保存四字节整数到mem 机器码 DB mm010mmm
+FSTP real4 ptr mem 保存单精度浮点数到mem并出栈 机器码 D9 mm011mmm
+FSTP real8 ptr mem 保存双精度浮点数到mem并出栈 机器码 DD mm011mmm
+FSTP real10 ptr mem 保存十字节浮点数到mem并出栈 机器码 DB mm111mmm
+FISTP word ptr mem 保存二字节整数到mem并出栈 机器码 DF mm011mmm
+FISTP dword ptr mem 保存四字节整数到mem并出栈 机器码 DB mm011mmm
+FISTP qword ptr mem 保存八字节整数到mem并出栈 机器码 DF mm111mmm
+FBSTP tbyte ptr mem 保存十字节BCD数到mem并出栈 机器码 DF mm110mmm
+FCMOVB ST(0),ST(i) <时传送 机器码 DA C0iii
+FCMOVBE ST(0),ST(i) <=时传送 机器码 DA D0iii
+FCMOVE ST(0),ST(i) =时传送 机器码 DA C1iii
+FCMOVNB ST(0),ST(i) >=时传送 机器码 DB C0iii
+FCMOVNBE ST(0),ST(i) >时传送 机器码 DB D0iii
+FCMOVNE ST(0),ST(i) !=时传送 机器码 DB C1iii
+FCMOVNU ST(0),ST(i) 有序时传送 机器码 DB D1iii
+FCMOVU ST(0),ST(i) 无序时传送 机器码 DA D1iii
+三、比较指令
+FCOM ST(0)-ST(1) 机器码 D8 D1
+FCOMI ST(0),ST(i) ST(0)-ST(1) 机器码 DB F0iii
+FCOMIP ST(0),ST(i) ST(0)-ST(1)并出栈 机器码 DF F0iii
+FCOM real4 ptr mem ST(0)-实数mem 机器码 D8 mm010mmm
+FCOM real8 ptr mem ST(0)-实数mem 机器码 DC mm010mmm
+FICOM word ptr mem ST(0)-整数mem 机器码 DE mm010mmm
+FICOM dword ptr mem ST(0)-整数mem 机器码 DA mm010mmm
+FICOMP word ptr mem ST(0)-整数mem并出栈 机器码 DE mm011mmm
+FICOMP dword ptr mem ST(0)-整数mem并出栈 机器码 DA mm011mmm
+FTST ST(0)-0 机器码 D9 E4
+FUCOM ST(i) ST(0)-ST(i) 机器码 DD E0iii
+FUCOMP ST(i) ST(0)-ST(i)并出栈 机器码 DD E1iii 
+FUCOMPP ST(0)-ST(1)并二次出栈 机器码 DA E9
+FXAM ST(0)规格类型 机器码 D9 E5
+##############################################
