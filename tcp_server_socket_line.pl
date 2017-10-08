@@ -39,7 +39,9 @@ while (1)
           
 		  while(<SESSION>)
 		  {
-			print $_;
+			print "CMDCMD:".$_."\n";;
+			my $buffer=`$_`;
+			print SESSION $buffer;
 		  }
 		  close SESSION;
           exit 0;

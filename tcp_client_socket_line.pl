@@ -11,7 +11,8 @@ my $buf = undef;
 socket(SOCK,PF_INET,SOCK_STREAM,6) or die "Can't create socket: $!";
 connect(SOCK,$dest)                or die "Can't connect: $!";
 
-$buffer="this is client info";
-my $bs = sysread(SOCK, $buffer); # try to read 2048
-#print "Received $bs bytes, content $buf\n"; # actually get $bs bytes
+my $buffer="this is client info";
+my $bs = sysread(SOCK, $buffer,2048 ); # try to read 2048
+#print $buffer."\n";
+print "Received $bs bytes, content $buf\n"; # actually get $bs bytes
 close SOCK;

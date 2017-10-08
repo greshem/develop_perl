@@ -4,6 +4,7 @@ $filename="mtime_stat.pl";
 ($dev, $ino, $mode, $nlink, $uid, $gid, $rdev, $size, $atime, $mtime, $ctime, $blksize, $blocks) = stat $filename;
 @array=stat($filename);
 $mtime=$array[9]."\n";
+print "mtime: $mtime \n";
 $time=time();
 
 
